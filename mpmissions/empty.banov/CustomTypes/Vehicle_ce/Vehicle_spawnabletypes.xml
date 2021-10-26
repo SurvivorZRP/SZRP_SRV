@@ -1,0 +1,3008 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<spawnabletypes>
+	<!-- Kamaz -->
+	<type name="Kamaz">
+		<attachments chance="1.00">
+			<item chance="0.80" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.80" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="CarRadiator"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="CarBattery"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="SparkPlug"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.70" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.50" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazDoors_Driver"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazDoors_CoDriver"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="KamazHood"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="KamazTrunk"/>
+		</attachments>
+	</type>
+	<type name="KamazCovered">
+		<attachments chance="1.00">
+			<item chance="0.80" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.80" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="CarRadiator"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="CarBattery"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="SparkPlug"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.70" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.50" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazDoors_Driver"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazDoors_CoDriver"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="KamazHood"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="KamazTrunk"/>
+		</attachments>
+	</type>
+	<type name="KamazFuel">
+		<attachments chance="1.00">
+			<item chance="0.80" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.80" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="CarRadiator"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="CarBattery"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="SparkPlug"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.70" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.50" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazDoors_Driver"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazDoors_CoDriver"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="KamazHood"/>
+		</attachments>
+	</type>
+	<type name="Kamaz_DON_Tan">
+		<attachments chance="1.00">
+			<item chance="0.80" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.80" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="CarRadiator"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="CarBattery"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="SparkPlug"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.70" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.50" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazDoors_Driver_DON_Tan"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazDoors_CoDriver_DON_Tan"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="KamazHood_DON_Tan"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="KamazTrunk_DON_Civilian2"/>
+		</attachments>
+	</type>
+	<type name="Kamaz_DON_Red">
+		<attachments chance="1.00">
+			<item chance="0.80" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.80" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="CarRadiator"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="CarBattery"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="SparkPlug"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.70" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.50" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazDoors_Driver_DON_Red"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazDoors_CoDriver_DON_Red"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="KamazHood_DON_Red"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="KamazTrunk_DON_Civilian2"/>
+		</attachments>
+	</type>
+	<type name="Kamaz_DON_Yellow">
+		<attachments chance="1.00">
+			<item chance="0.80" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.80" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="CarRadiator"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="CarBattery"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="SparkPlug"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.70" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.50" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazDoors_Driver_DON_Yellow"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazDoors_CoDriver_DON_Yellow"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="KamazHood_DON_Yellow"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="KamazTrunk_DON_Civilian2"/>
+		</attachments>
+	</type>
+	<type name="Kamaz_DON_Blue">
+		<attachments chance="1.00">
+			<item chance="0.80" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.80" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="CarRadiator"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="CarBattery"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="SparkPlug"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.70" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.50" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazDoors_Driver_DON_Blue"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazDoors_CoDriver_DON_Blue"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="KamazHood_DON_Blue"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="KamazTrunk_DON_Civilian2"/>
+		</attachments>
+	</type>
+	<type name="Kamaz_DON_LightBlue">
+		<attachments chance="1.00">
+			<item chance="0.80" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.80" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="CarRadiator"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="CarBattery"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="SparkPlug"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.70" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.50" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazDoors_Driver_DON_LightBlue"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazDoors_CoDriver_DON_LightBlue"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="KamazHood_DON_LightBlue"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="KamazTrunk_DON_Civilian2"/>
+		</attachments>
+	</type>
+	<type name="Kamaz_DON_Beige">
+		<attachments chance="1.00">
+			<item chance="0.80" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.80" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="CarRadiator"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="CarBattery"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="SparkPlug"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.70" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.50" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazDoors_Driver_DON_Beige"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazDoors_CoDriver_DON_Beige"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="KamazHood_DON_Beige"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="KamazTrunk_DON_Civilian2"/>
+		</attachments>
+	</type>
+	<type name="Kamaz_DON_Orange">
+		<attachments chance="1.00">
+			<item chance="0.80" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.80" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="CarRadiator"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="CarBattery"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="SparkPlug"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.70" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.50" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazDoors_Driver_DON_Orange"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazDoors_CoDriver_DON_Orange"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="KamazHood_DON_Orange"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="KamazTrunk_DON_Civilian2"/>
+		</attachments>
+	</type>
+	<type name="Kamaz_DON_Orange_B">
+		<attachments chance="1.00">
+			<item chance="0.80" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.80" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="CarRadiator"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="CarBattery"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="SparkPlug"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.70" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.50" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazDoors_Driver_DON_Orange"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazDoors_CoDriver_DON_Orange"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="KamazHood_DON_Orange_B"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="KamazTrunk_DON_Civilian2"/>
+		</attachments>
+	</type>
+	<type name="Kamaz_DON_White">
+		<attachments chance="1.00">
+			<item chance="0.80" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.80" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="CarRadiator"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="CarBattery"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="SparkPlug"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.70" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.50" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazDoors_Driver_DON_White"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazDoors_CoDriver_DON_White"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="KamazHood_DON_White"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="KamazTrunk_DON_Civilian2"/>
+		</attachments>
+	</type>
+	<type name="Kamaz_DON_Grey">
+		<attachments chance="1.00">
+			<item chance="0.80" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.80" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="CarRadiator"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="CarBattery"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="SparkPlug"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.70" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.50" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazDoors_Driver_DON_Grey"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazDoors_CoDriver_DON_Grey"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="KamazHood_DON_Grey"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="KamazTrunk_DON_Civilian2"/>
+		</attachments>
+	</type>
+	<!--Kamaz_DON End-->
+	<!--Kamaz_DON_Covered Start-->
+	<type name="Kamaz_DON_Covered_Nowoa">
+		<attachments chance="1.00">
+			<item chance="0.80" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.80" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="CarRadiator"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="CarBattery"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="SparkPlug"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.70" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.50" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazDoors_Driver_DON_Nowoa"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazDoors_CoDriver_DON_Nowoa"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="KamazHood_DON_Nowoa"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="KamazTrunk_DON_Civilian2"/>
+		</attachments>
+	</type>
+	<type name="Kamaz_DON_Covered_Tan">
+		<attachments chance="1.00">
+			<item chance="0.80" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.80" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="CarRadiator"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="CarBattery"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="SparkPlug"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.70" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.50" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazDoors_Driver_DON_Tan"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazDoors_CoDriver_DON_Tan"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="KamazHood_DON_Tan"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="KamazTrunk_DON_Civilian2"/>
+		</attachments>
+	</type>
+	<type name="Kamaz_DON_Covered_OrangeB">
+		<attachments chance="1.00">
+			<item chance="0.80" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.80" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="CarRadiator"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="CarBattery"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="SparkPlug"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.70" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.50" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazDoors_Driver_DON_Orange_B"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazDoors_CoDriver_DON_Orange_B"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="KamazHood_DON_Orange_B"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="KamazTrunk_DON_Civilian2"/>
+		</attachments>
+	</type>
+	<type name="Kamaz_DON_Covered_Blue">
+		<attachments chance="1.00">
+			<item chance="0.80" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.80" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="CarRadiator"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="CarBattery"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="SparkPlug"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.70" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.50" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazDoors_Driver_DON_Blue"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazDoors_CoDriver_DON_Blue"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="KamazHood_DON_Blue"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="KamazTrunk_DON_Civilian2"/>
+		</attachments>
+	</type>
+	<type name="Kamaz_DON_Covered_LightBlue">
+		<attachments chance="1.00">
+			<item chance="0.80" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.80" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="CarRadiator"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="CarBattery"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="SparkPlug"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.70" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.50" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazDoors_Driver_DON_LightBlue"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazDoors_CoDriver_DON_LightBlue"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="KamazHood_DON_LightBlue"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="KamazTrunk_DON_Civilian2"/>
+		</attachments>
+	</type>
+	<type name="Kamaz_DON_Covered_Yellow">
+		<attachments chance="1.00">
+			<item chance="0.80" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.80" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="CarRadiator"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="CarBattery"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="SparkPlug"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.70" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.50" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazDoors_Driver_DON_Yellow"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazDoors_CoDriver_DON_Yellow"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="KamazHood_DON_Yellow"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="KamazTrunk_DON_Civilian2"/>
+		</attachments>
+	</type>
+	<type name="Kamaz_DON_Covered_Red">
+		<attachments chance="1.00">
+			<item chance="0.80" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.80" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="CarRadiator"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="CarBattery"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="SparkPlug"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.70" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.50" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazDoors_Driver_DON_Red"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazDoors_CoDriver_DON_Red"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="KamazHood_DON_Red"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="KamazTrunk_DON_Civilian2"/>
+		</attachments>
+	</type>
+	<!--Kamaz_DON_Covered End-->
+	<!--Kamaz_DON_Fuel Start-->
+	<type name="Kamaz_DON_Fuel_Nowoa">
+		<attachments chance="1.00">
+			<item chance="0.80" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.80" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="CarRadiator"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="CarBattery"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="SparkPlug"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.70" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.50" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazDoors_Driver_DON_Nowoa"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazDoors_CoDriver_DON_Nowoa"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="KamazHood_DON_Nowoa"/>
+		</attachments>
+	</type>
+	<type name="Kamaz_DON_Fuel_Schnell">
+		<attachments chance="1.00">
+			<item chance="0.80" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.80" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="CarRadiator"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="CarBattery"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="SparkPlug"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.70" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.50" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazDoors_Driver_DON_Schnell"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazDoors_CoDriver_DON_Schnell"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="KamazHood_DON_Schnell"/>
+		</attachments>
+	</type>
+	<type name="Kamaz_DON_Fuel_Red">
+		<attachments chance="1.00">
+			<item chance="0.80" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.80" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="CarRadiator"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="CarBattery"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="SparkPlug"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.70" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.50" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazDoors_Driver_DON_Red"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazDoors_CoDriver_DON_Red"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="KamazHood_DON_Red"/>
+		</attachments>
+	</type>
+	<type name="Kamaz_DON_Fuel_Orange">
+		<attachments chance="1.00">
+			<item chance="0.80" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.80" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="CarRadiator"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="CarBattery"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="SparkPlug"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.70" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.50" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazDoors_Driver_DON_Orange"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazDoors_CoDriver_DON_Orange"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="KamazHood_DON_Orange"/>
+		</attachments>
+	</type>
+	<type name="Kamaz_DON_Fuel_Tan">
+		<attachments chance="1.00">
+			<item chance="0.80" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.80" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="CarRadiator"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="CarBattery"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="SparkPlug"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.70" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.50" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazDoors_Driver_DON_Tan"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazDoors_CoDriver_DON_Tan"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="KamazHood_DON_Tan"/>
+		</attachments>
+	</type>
+	<type name="Kamaz_DON_Fuel_Green">
+		<attachments chance="1.00">
+			<item chance="0.80" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.80" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="KamazWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="CarRadiator"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="CarBattery"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="SparkPlug"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.70" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.50" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazDoors_Driver_DON_Green"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="KamazDoors_CoDriver_DON_Green"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="KamazHood_DON_Green"/>
+		</attachments>
+	</type>
+	<!-- [CrSk] Land Rover Defender -->
+	<type name="CrSk_Land_Rover_Defender_110">
+		<attachments chance="1.00">
+			<item chance="0.60" name="Defender110_koleso"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="Defender110_koleso"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="Defender110_koleso"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="Defender110_koleso"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="Defender110_dver_1_1"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="Defender110_dver_2_1"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="Defender110_dver_1_2"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="Defender110_dver_2_2"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Defender110_kapot"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="Defender110_bagazhnik"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="CarRadiator"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="CarBattery"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="SparkPlug"/>
+		</attachments>
+	</type>
+	<type name="CrSk_Land_Rover_Defender_110_Green">
+		<attachments chance="1.00">
+			<item chance="0.60" name="Defender110_koleso"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="Defender110_koleso"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="Defender110_koleso"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="Defender110_koleso"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="Defender110_dver_1_1_Green"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="Defender110_dver_2_1_Green"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="Defender110_dver_1_2_Green"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="Defender110_dver_2_2_Green"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Defender110_kapot_Green"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="Defender110_bagazhnik_Green"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="CarRadiator"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="CarBattery"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="SparkPlug"/>
+		</attachments>
+	</type>
+	<type name="CrSk_Land_Rover_Defender_110_UN">
+		<attachments chance="1.00">
+			<item chance="0.60" name="Defender110_koleso"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="Defender110_koleso"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="Defender110_koleso"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="Defender110_koleso"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="Defender110_dver_1_1_UN"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="Defender110_dver_2_1_UN"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="Defender110_dver_1_2_UN"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="Defender110_dver_2_2_UN"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Defender110_kapot_UN"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="Defender110_bagazhnik_UN"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="CarRadiator"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="CarBattery"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="SparkPlug"/>
+		</attachments>
+	</type>
+	<!-- [CrSk] VAZ-2107 -->
+	<type name="CrSk_VAZ_2107">
+		<attachments chance="1.00">
+			<item chance="0.50" name="VAZ2107_koleso"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="VAZ2107_koleso"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="VAZ2107_koleso"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="VAZ2107_koleso"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="CarRadiator"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="CarBattery"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="SparkPlug"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="VAZ2107_dver_1_1"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="VAZ2107_dver_2_1"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="VAZ2107_dver_1_2"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="VAZ2107_dver_2_2"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="VAZ2107_kapot"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="VAZ2107_bagazhnik"/>
+		</attachments>
+	</type>
+	<type name="CrSk_VAZ_2107_Black">
+		<attachments chance="1.00">
+			<item chance="0.50" name="VAZ2107_koleso"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="VAZ2107_koleso"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="VAZ2107_koleso"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="VAZ2107_koleso"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="CarRadiator"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="CarBattery"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="SparkPlug"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="VAZ2107_dver_1_1_Black"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="VAZ2107_dver_2_1_Black"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="VAZ2107_dver_1_2_Black"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="VAZ2107_dver_2_2_Black"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="VAZ2107_kapot_Black"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="VAZ2107_bagazhnik_Black"/>
+		</attachments>
+	</type>
+	<type name="CrSk_VAZ_2107_Beige">
+		<attachments chance="1.00">
+			<item chance="0.50" name="VAZ2107_koleso"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="VAZ2107_koleso"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="VAZ2107_koleso"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="VAZ2107_koleso"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="CarRadiator"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="CarBattery"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="SparkPlug"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="VAZ2107_dver_1_1_Beige"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="VAZ2107_dver_2_1_Beige"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="VAZ2107_dver_1_2_Beige"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="VAZ2107_dver_2_2_Beige"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="VAZ2107_kapot_Beige"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="VAZ2107_bagazhnik_Beige"/>
+		</attachments>
+	</type>
+	<type name="CrSk_VAZ_2107_White">
+		<attachments chance="1.00">
+			<item chance="0.50" name="VAZ2107_koleso"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="VAZ2107_koleso"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="VAZ2107_koleso"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="VAZ2107_koleso"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="CarRadiator"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="CarBattery"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="SparkPlug"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="VAZ2107_dver_1_1_White"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="VAZ2107_dver_2_1_White"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="VAZ2107_dver_1_2_White"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="VAZ2107_dver_2_2_White"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="VAZ2107_kapot_White"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="VAZ2107_bagazhnik_White"/>
+		</attachments>
+	</type>
+	<!-- Nehr Pickup Lada -->
+	<type name="Nehr_PickupLada_Simple">
+		<attachments chance="1.00">
+			<item chance="0.50" name="HatchbackWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="HatchbackWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="HatchbackWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="HatchbackWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="CarRadiator"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="CarBattery"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="SparkPlug"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Nehr_PickupLadadoors_driver"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Nehr_PickupLadadoors_codriver"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Nehr_PickupLadahood"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Nehr_PickupLadatrunk"/>
+		</attachments>
+	</type>
+	<type name="Nehr_PickupLada_Simple_Green">
+		<attachments chance="1.00">
+			<item chance="0.50" name="HatchbackWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="HatchbackWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="HatchbackWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="HatchbackWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="CarRadiator"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="CarBattery"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="SparkPlug"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Nehr_PickupLadadoors_driver_Green"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Nehr_PickupLadadoors_codriver_Green"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Nehr_PickupLadahood_Green"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Nehr_PickupLadatrunk_Green"/>
+		</attachments>
+	</type>
+	<type name="Nehr_PickupLada_Simple_Blue">
+		<attachments chance="1.00">
+			<item chance="0.50" name="HatchbackWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="HatchbackWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="HatchbackWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="HatchbackWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="CarRadiator"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="CarBattery"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="SparkPlug"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Nehr_PickupLadadoors_driver_Blue"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Nehr_PickupLadadoors_codriver_Blue"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Nehr_PickupLadahood_Blue"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Nehr_PickupLadatrunk_Blue"/>
+		</attachments>
+	</type>
+	<type name="Nehr_PickupLada">
+		<attachments chance="1.00">
+			<item chance="0.50" name="Nehr_PickupLadaWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="Nehr_PickupLadaWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="Nehr_PickupLadaWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="Nehr_PickupLadaWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="CarRadiator"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="CarBattery"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="SparkPlug"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Nehr_PickupLadadoors_driver"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Nehr_PickupLadadoors_codriver"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Nehr_PickupLadahood"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Nehr_PickupLadatrunk"/>
+		</attachments>
+	</type>
+	<type name="Nehr_PickupLada_Green">
+		<attachments chance="1.00">
+			<item chance="0.50" name="Nehr_PickupLadaWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="Nehr_PickupLadaWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="Nehr_PickupLadaWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="Nehr_PickupLadaWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="CarRadiator"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="CarBattery"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="SparkPlug"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Nehr_PickupLadadoors_driver_Green"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Nehr_PickupLadadoors_codriver_Green"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Nehr_PickupLadahood_Green"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Nehr_PickupLadatrunk_Green"/>
+		</attachments>
+	</type>
+	<type name="Nehr_PickupLada_Blue">
+		<attachments chance="1.00">
+			<item chance="0.50" name="Nehr_PickupLadaWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="Nehr_PickupLadaWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="Nehr_PickupLadaWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="Nehr_PickupLadaWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="CarRadiator"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="CarBattery"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="SparkPlug"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Nehr_PickupLadadoors_driver_Blue"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Nehr_PickupLadadoors_codriver_Blue"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Nehr_PickupLadahood_Blue"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Nehr_PickupLadatrunk_Blue"/>
+		</attachments>
+	</type>
+	<type name="Nehr_PickupLada_White">
+		<attachments chance="1.00">
+			<item chance="0.50" name="Nehr_PickupLadaWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="Nehr_PickupLadaWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="Nehr_PickupLadaWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="Nehr_PickupLadaWheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="CarRadiator"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="CarBattery"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="SparkPlug"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Nehr_PickupLadadoors_driver_White"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Nehr_PickupLadadoors_codriver_White"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Nehr_PickupLadahood_White"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Nehr_PickupLadatrunk_White"/>
+		</attachments>
+	</type>
+	<!--RaG Hummer-->
+	<type name="rag_hummer_Armored">
+		<attachments chance="1.00">
+			<item chance="0.50" name="rag_hummer_wheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="rag_hummer_wheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="rag_hummer_wheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="rag_hummer_wheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="CarRadiator"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="CarBattery"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="SparkPlug"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="rag_hummer_Door_1"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="rag_hummer_Door_2"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="rag_hummer_Door_3"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="rag_hummer_Door_4"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="rag_hummer_Hood"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="rag_hummer_Trunk"/>
+		</attachments>
+	</type>
+	<type name="rag_hummer_green_Armored">
+		<attachments chance="1.00">
+			<item chance="0.50" name="rag_hummer_wheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="rag_hummer_wheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="rag_hummer_wheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="rag_hummer_wheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="CarRadiator"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="CarBattery"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="SparkPlug"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="rag_hummer_green_Door_1"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="rag_hummer_green_Door_2"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="rag_hummer_green_Door_3"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="rag_hummer_green_Door_4"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="rag_hummer_green_Hood"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="rag_hummer_green_Trunk"/>
+		</attachments>
+	</type>
+	<type name="rag_hummer_tan_Armored">
+		<attachments chance="1.00">
+			<item chance="0.50" name="rag_hummer_wheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="rag_hummer_wheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="rag_hummer_wheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="rag_hummer_wheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="CarRadiator"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="CarBattery"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="SparkPlug"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="rag_hummer_tan_Door_1"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="rag_hummer_tan_Door_2"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="rag_hummer_tan_Door_3"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="rag_hummer_tan_Door_4"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="rag_hummer_tan_Hood"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="rag_hummer_tan_Trunk"/>
+		</attachments>
+	</type>
+	<type name="rag_hummer_woodland_Armored">
+		<attachments chance="1.00">
+			<item chance="0.50" name="rag_hummer_wheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="rag_hummer_wheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="rag_hummer_wheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="rag_hummer_wheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="CarRadiator"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="CarBattery"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="SparkPlug"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="rag_hummer_woodland_Door_1"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="rag_hummer_woodland_Door_2"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="rag_hummer_woodland_Door_3"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="rag_hummer_woodland_Door_4"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="rag_hummer_woodland_Hood"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="rag_hummer_woodland_Trunk"/>
+		</attachments>
+	</type>
+	<!-- Bastard BMW E32 -->
+	<type name="Bastard_BMWe32_stock">
+		<attachments chance="1.00">
+			<item chance="0.30" name="bmwwheel_5x120"/>
+			<item chance="0.30" name="Shtamp_5x120"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="bmwwheel_5x120"/>
+			<item chance="0.30" name="Shtamp_5x120"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="bmwwheel_5x120"/>
+			<item chance="0.30" name="Shtamp_5x120"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="bmwwheel_5x120"/>
+			<item chance="0.30" name="Shtamp_5x120"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="CarRadiator"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="CarBattery"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="SparkPlug"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_BMWe32_driverdoor_stock"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_BMWe32_codriverdoor_stock"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_BMWe32_cargo1door_stock"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_BMWe32_cargo2door_stock"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_BMWe32_trunkdoor_stock"/>
+		</attachments>
+	</type>
+	<type name="Bastard_BMWe32_skin1">
+		<attachments chance="1.00">
+			<item chance="0.30" name="bmwwheel_5x120"/>
+			<item chance="0.30" name="Shtamp_5x120"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="bmwwheel_5x120"/>
+			<item chance="0.30" name="Shtamp_5x120"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="bmwwheel_5x120"/>
+			<item chance="0.30" name="Shtamp_5x120"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="bmwwheel_5x120"/>
+			<item chance="0.30" name="Shtamp_5x120"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="CarRadiator"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="CarBattery"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="SparkPlug"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_BMWe32_driverdoor_skin1"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_BMWe32_codriverdoor_skin1"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_BMWe32_cargo1door_skin1"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_BMWe32_cargo2door_skin1"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_BMWe32_trunkdoor_skin1"/>
+		</attachments>
+	</type>
+	<type name="Bastard_BMWe32_skin2">
+		<attachments chance="1.00">
+			<item chance="0.30" name="bmwwheel_5x120"/>
+			<item chance="0.30" name="Shtamp_5x120"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="bmwwheel_5x120"/>
+			<item chance="0.30" name="Shtamp_5x120"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="bmwwheel_5x120"/>
+			<item chance="0.30" name="Shtamp_5x120"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="bmwwheel_5x120"/>
+			<item chance="0.30" name="Shtamp_5x120"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="CarRadiator"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="CarBattery"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="SparkPlug"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_BMWe32_driverdoor_skin2"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_BMWe32_codriverdoor_skin2"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_BMWe32_cargo1door_skin2"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_BMWe32_cargo2door_skin2"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_BMWe32_trunkdoor_skin2"/>
+		</attachments>
+	</type>
+	<!-- Bastard MB W123 -->
+	<type name="Bastard_w123_stock">
+		<attachments chance="1.00">
+			<item chance="0.30" name="oldmercedeswheel_5x120"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="oldmercedeswheel_5x120"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="oldmercedeswheel_5x120"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="oldmercedeswheel_5x120"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="CarRadiator"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="CarBattery"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="SparkPlug"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_w123_driverdoor_stock"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_w123_codriverdoor_stock"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_w123_cargo1door_stock"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_w123_cargo2door_stock"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_w123_hooddoor_stock"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_w123_trunkdoor_stock"/>
+		</attachments>
+	</type>
+	<type name="Bastard_w123_skin1">
+		<attachments chance="1.00">
+			<item chance="0.30" name="oldmercedeswheel_5x120"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="oldmercedeswheel_5x120"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="oldmercedeswheel_5x120"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="oldmercedeswheel_5x120"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="CarRadiator"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="CarBattery"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="SparkPlug"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_w123_driverdoor_skin1"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_w123_codriverdoor_skin1"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_w123_cargo1door_skin1"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_w123_cargo2door_skin1"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_w123_hooddoor_skin1"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_w123_trunkdoor_skin1"/>
+		</attachments>
+	</type>
+	<type name="Bastard_w123_skin2">
+		<attachments chance="1.00">
+			<item chance="0.30" name="oldmercedeswheel_5x120"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="oldmercedeswheel_5x120"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="oldmercedeswheel_5x120"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="oldmercedeswheel_5x120"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="CarRadiator"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="CarBattery"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="SparkPlug"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_w123_driverdoor_skin2"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_w123_codriverdoor_skin2"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_w123_cargo1door_skin2"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_w123_cargo2door_skin2"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_w123_hooddoor_skin2"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_w123_trunkdoor_skin2"/>
+		</attachments>
+	</type>
+	<type name="Bastard_w123_skin3">
+		<attachments chance="1.00">
+			<item chance="0.30" name="oldmercedeswheel_5x120"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="oldmercedeswheel_5x120"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="oldmercedeswheel_5x120"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="oldmercedeswheel_5x120"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="CarRadiator"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="CarBattery"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="SparkPlug"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_w123_driverdoor_skin3"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_w123_codriverdoor_skin3"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_w123_cargo1door_skin3"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_w123_cargo2door_skin3"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_w123_hooddoor_skin3"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_w123_trunkdoor_skin3"/>
+		</attachments>
+	</type>
+	<type name="Bastard_w123_black">
+		<attachments chance="1.00">
+			<item chance="0.30" name="oldmercedeswheel_5x120"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="oldmercedeswheel_5x120"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="oldmercedeswheel_5x120"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="oldmercedeswheel_5x120"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="CarRadiator"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="CarBattery"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="SparkPlug"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_w123_driverdoor_black"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_w123_codriverdoor_black"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_w123_cargo1door_black"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_w123_cargo2door_black"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_w123_hooddoor_black"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_w123_trunkdoor_black"/>
+		</attachments>
+	</type>
+	<!-- Bastard MB W124 -->
+	<type name="Bastard_w124_stock">
+		<attachments chance="1.00">
+			<item chance="0.30" name="mercedeswheel_5x120"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="mercedeswheel_5x120"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="mercedeswheel_5x120"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="mercedeswheel_5x120"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="CarRadiator"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="CarBattery"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="SparkPlug"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_w124_driverdoor_stock"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_w124_codriverdoor_stock"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_w124_cargo1door_stock"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_w124_cargo2door_stock"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_w124_hooddoor_stock"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_w124_trunkdoor_stock"/>
+		</attachments>
+	</type>
+	<type name="Bastard_w124_skin1">
+		<attachments chance="1.00">
+			<item chance="0.30" name="mercedeswheel_5x120"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="mercedeswheel_5x120"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="mercedeswheel_5x120"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="mercedeswheel_5x120"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="CarRadiator"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="CarBattery"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="SparkPlug"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_w124_driverdoor_skin1"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_w124_codriverdoor_skin1"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_w124_cargo1door_skin1"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_w124_cargo2door_skin1"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_w124_hooddoor_skin1"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_w124_trunkdoor_skin1"/>
+		</attachments>
+	</type>
+	<type name="Bastard_w124_skin2">
+		<attachments chance="1.00">
+			<item chance="0.30" name="mercedeswheel_5x120"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="mercedeswheel_5x120"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="mercedeswheel_5x120"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="mercedeswheel_5x120"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="CarRadiator"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="CarBattery"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="SparkPlug"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_w124_driverdoor_skin2"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_w124_codriverdoor_skin2"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_w124_cargo1door_skin2"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_w124_cargo2door_skin2"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_w124_hooddoor_skin2"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_w124_trunkdoor_skin2"/>
+		</attachments>
+	</type>
+	<type name="Bastard_w124_rust">
+		<attachments chance="1.00">
+			<item chance="0.30" name="mercedeswheel_5x120"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="mercedeswheel_5x120"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="mercedeswheel_5x120"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="mercedeswheel_5x120"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="CarRadiator"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="CarBattery"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="SparkPlug"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_w124_driverdoor_rust"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_w124_codriverdoor_rust"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_w124_cargo1door_rust"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_w124_cargo2door_rust"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_w124_hooddoor_rust"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_w124_trunkdoor_rust"/>
+		</attachments>
+	</type>
+	<type name="Bastard_w124_rust_skin1">
+		<attachments chance="1.00">
+			<item chance="0.30" name="mercedeswheel_5x120"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="mercedeswheel_5x120"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="mercedeswheel_5x120"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="mercedeswheel_5x120"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="CarRadiator"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="CarBattery"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="SparkPlug"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_w124_driverdoor_rust_skin1"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_w124_codriverdoor_rust_skin1"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_w124_cargo1door_rust_skin1"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_w124_cargo2door_rust_skin1"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_w124_hooddoor_rust_skin1"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_w124_trunkdoor_rust_skin1"/>
+		</attachments>
+	</type>
+	<type name="Bastard_w124_rust_skin2">
+		<attachments chance="1.00">
+			<item chance="0.30" name="mercedeswheel_5x120"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="mercedeswheel_5x120"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="mercedeswheel_5x120"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="mercedeswheel_5x120"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="CarRadiator"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="CarBattery"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="SparkPlug"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_w124_driverdoor_rust_skin2"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_w124_codriverdoor_rust_skin2"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_w124_cargo1door_rust_skin2"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_w124_cargo2door_rust_skin2"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_w124_hooddoor_rust_skin2"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Bastard_w124_trunkdoor_rust_skin2"/>
+		</attachments>
+	</type>
+	<!-- Savage Tahoe -->
+	<type name="SavageTahoe">
+		<attachments chance="1.00">
+			<item chance="0.50" name="Tahoe_wheels"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="Tahoe_wheels"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="Tahoe_wheels"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.40" name="Tahoe_wheels"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Tahoe_doors_driver"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Tahoe_doors_codriver"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Tahoe_doors_cargo1"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Tahoe_doors_hood"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Tahoe_doors_trunk"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="Tahoe_Bumper"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="CarRadiator"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="TruckBattery"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.60" name="SparkPlug"/>
+		</attachments>
+	</type>
+	<!-- RUSForma Vehicles -->
+	<type name="UAZ_3163">
+		<attachments chance="1.00">
+			<item chance="0.30" name="UAZ_3163_wheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="UAZ_3163_wheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="UAZ_3163_wheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="UAZ_3163_wheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="CarRadiator"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="CarBattery"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="SparkPlug"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="UAZ_3163_doors_driver"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="UAZ_3163_doors_codriver"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="UAZ_3163_doors_cargo1"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="UAZ_3163_doors_cargo2"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="UAZ_3163_doors_hood"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="UAZ_3163_doors_trunk"/>
+		</attachments>
+	</type>
+	<type name="ZAZ_968M">
+		<attachments chance="1.00">
+			<item chance="0.30" name="ZAZ_968M_wheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="ZAZ_968M_wheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="ZAZ_968M_wheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="ZAZ_968M_wheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="CarRadiator"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="CarBattery"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="SparkPlug"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="ZAZ_968M_doors_driver"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="ZAZ_968M_doors_codriver"/>
+		</attachments>
+	</type>
+	<type name="gaz_51">
+		<attachments chance="1.00">
+			<item chance="0.30" name="gaz_51_wheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="gaz_51_WheelDouble"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="gaz_51_wheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="gaz_51_WheelDouble"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="CarRadiator"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="CarBattery"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="SparkPlug"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="gaz_51_doors_driver"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="gaz_51_doors_codriver"/>
+		</attachments>
+	</type>
+	<type name="GAZ_33081">
+		<attachments chance="1.00">
+			<item chance="0.30" name="GAZ_33081_wheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="GAZ_33081_wheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="GAZ_33081_wheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="GAZ_33081_wheel"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.20" name="CarRadiator"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="CarBattery"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="SparkPlug"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.10" name="HeadlightH7"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="GAZ_33081_doors_driver"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="GAZ_33081_doors_codriver"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="GAZ_33081_doors_cargo1"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item chance="0.30" name="GAZ_33081_doors_cargo2"/>
+		</attachments>
+	</type>
+	<!-- Zil-130 -->
+	<type name="Gerph_Zil130">
+		<attachments chance="1.00">
+			<item name="Zil130Wheel" chance="0.60" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="Zil130Wheel" chance="0.60" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="Zil130WheelRear" chance="0.40" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="Zil130WheelRear" chance="0.40" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.20" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.30" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.30" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.10" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.10" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="Zil130Doors_Driver" chance="0.30" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="Zil130Doors_CoDriver" chance="0.30" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="Zil130_Hood" chance="0.30" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="Zil130_Tailgate" chance="0.60" />
+        </attachments>
+	</type>
+</spawnabletypes>

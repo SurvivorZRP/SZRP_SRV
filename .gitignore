@@ -1,10 +1,14 @@
 # Ignore everything:
 *
+
+# Look at the files
 !*/
 !.gitignore
+#Dive into Profiles
 !/profiles/**
 !/profiles/**/*
 !/profiles/**/**/*
+#Filter known server specific files
 **.log
 **.ADM
 **.RPT
@@ -12,5 +16,12 @@
 /profiles/gamelabs.cfg
 /profiles/@Logging/
 /profiles/BattlEye/
+/profiles/DataCache/
+/profiles/Users/
 
-
+#Dive into mpmissions
+!/mpmissions/empty.banov/**
+!/mpmissions/empty.banov/**/*
+!/mpmissions/empty.banov/**/**/*
+#Filter Persistence
+/mpmissions/empty.banov/storage_1

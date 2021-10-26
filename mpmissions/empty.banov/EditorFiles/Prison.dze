@@ -1,0 +1,411 @@
+{
+    "MapName": "Banov",
+    "CameraPosition": [
+        11085.7666015625,
+        399.1043395996094,
+        10900.55859375
+    ],
+    "EditorObjects": [
+        {
+            "Type": "Land_Prison_Main",
+            "DisplayName": "Land_Prison_Main",
+            "Position": [
+                11056.7001953125,
+                390.625,
+                10899.0
+            ],
+            "Orientation": [
+                -178.49996948242188,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999997615814209,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_pier_concrete1_end",
+            "DisplayName": "bldr_pier_concrete1_end",
+            "Position": [
+                11055.099609375,
+                349.1659851074219,
+                10886.2001953125
+            ],
+            "Orientation": [
+                1.5,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_pier_concrete1_end",
+            "DisplayName": "bldr_pier_concrete1_end",
+            "Position": [
+                11056.2001953125,
+                349.1650085449219,
+                10915.7001953125
+            ],
+            "Orientation": [
+                -177.49993896484376,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999997615814209,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_pier_concrete1",
+            "DisplayName": "bldr_pier_concrete1",
+            "Position": [
+                11077.599609375,
+                349.1449890136719,
+                10880.900390625
+            ],
+            "Orientation": [
+                1.5,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_pier_concrete1",
+            "DisplayName": "bldr_pier_concrete1",
+            "Position": [
+                11078.7001953125,
+                349.1449890136719,
+                10920.900390625
+            ],
+            "Orientation": [
+                1.600000023841858,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Prison_Wall_Small",
+            "DisplayName": "bldr_Prison_Wall_Small",
+            "Position": [
+                11032.599609375,
+                376.6260070800781,
+                10862.7001953125
+            ],
+            "Orientation": [
+                12.399996757507325,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Prison_Wall_Small",
+            "DisplayName": "bldr_Prison_Wall_Small",
+            "Position": [
+                11015.7998046875,
+                378.7720031738281,
+                10863.400390625
+            ],
+            "Orientation": [
+                12.399996757507325,
+                0.2999999225139618,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Prison_Wall_Small",
+            "DisplayName": "bldr_Prison_Wall_Small",
+            "Position": [
+                11008.2001953125,
+                378.8320007324219,
+                10872.2998046875
+            ],
+            "Orientation": [
+                103.49999237060547,
+                0.29999983310699465,
+                0.0
+            ],
+            "Scale": 0.9999998211860657,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Prison_Wall_Small",
+            "DisplayName": "bldr_Prison_Wall_Small",
+            "Position": [
+                11009.2998046875,
+                378.82000732421877,
+                10889.0
+            ],
+            "Orientation": [
+                103.49999237060547,
+                0.29999983310699465,
+                0.0
+            ],
+            "Scale": 0.9999998211860657,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Prison_Wall_Small",
+            "DisplayName": "bldr_Prison_Wall_Small",
+            "Position": [
+                11010.400390625,
+                378.7900085449219,
+                10905.599609375
+            ],
+            "Orientation": [
+                103.49999237060547,
+                0.29999983310699465,
+                0.0
+            ],
+            "Scale": 0.9999998211860657,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Prison_Wall_Small",
+            "DisplayName": "bldr_Prison_Wall_Small",
+            "Position": [
+                11019.400390625,
+                378.77801513671877,
+                10913.7998046875
+            ],
+            "Orientation": [
+                -171.10000610351563,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Prison_Wall_Small",
+            "DisplayName": "bldr_Prison_Wall_Small",
+            "Position": [
+                11035.7998046875,
+                377.375,
+                10914.099609375
+            ],
+            "Orientation": [
+                -171.10000610351563,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Platform1_Ramp",
+            "DisplayName": "bldr_Platform1_Ramp",
+            "Position": [
+                11100.099609375,
+                369.54998779296877,
+                10864.099609375
+            ],
+            "Orientation": [
+                1.7999998331069947,
+                -0.09999997168779373,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Prison_Wall_Small",
+            "DisplayName": "bldr_Prison_Wall_Small",
+            "Position": [
+                11074.7001953125,
+                376.5690002441406,
+                10869.7001953125
+            ],
+            "Orientation": [
+                101.29998779296875,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Prison_Wall_Small",
+            "DisplayName": "bldr_Prison_Wall_Small",
+            "Position": [
+                11065.900390625,
+                376.62298583984377,
+                10861.5
+            ],
+            "Orientation": [
+                11.199999809265137,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Prison_Wall_Small",
+            "DisplayName": "bldr_Prison_Wall_Small",
+            "Position": [
+                11049.2001953125,
+                376.62298583984377,
+                10862.0
+            ],
+            "Orientation": [
+                11.699996948242188,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Platform1_Ramp",
+            "DisplayName": "bldr_Platform1_Ramp",
+            "Position": [
+                11101.099609375,
+                369.54998779296877,
+                10911.599609375
+            ],
+            "Orientation": [
+                1.7999998331069947,
+                -0.09999997913837433,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Mil_Guardhouse2",
+            "DisplayName": "Land_Mil_Guardhouse2",
+            "Position": [
+                11087.2998046875,
+                374.0830078125,
+                10868.599609375
+            ],
+            "Orientation": [
+                -85.9999771118164,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_pier_concrete1_r",
+            "DisplayName": "bldr_pier_concrete1_r",
+            "Position": [
+                11084.400390625,
+                348.9200134277344,
+                10878.5
+            ],
+            "Orientation": [
+                0.9999998211860657,
+                -0.09999998658895493,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "CS_Military_Wall3",
+            "DisplayName": "CS_Military_Wall3",
+            "Position": [
+                11076.7001953125,
+                372.8919982910156,
+                10861.400390625
+            ],
+            "Orientation": [
+                2.499999523162842,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "CS_Military_Wall3",
+            "DisplayName": "CS_Military_Wall3",
+            "Position": [
+                11084.400390625,
+                372.8489990234375,
+                10861.099609375
+            ],
+            "Orientation": [
+                2.499999523162842,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "CS_Military_Wall3",
+            "DisplayName": "CS_Military_Wall3",
+            "Position": [
+                11080.400390625,
+                372.8689880371094,
+                10861.2001953125
+            ],
+            "Orientation": [
+                -178.19996643066407,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_hbarrier_6m",
+            "DisplayName": "bldr_hbarrier_6m",
+            "Position": [
+                11095.2001953125,
+                373.7359924316406,
+                10871.599609375
+            ],
+            "Orientation": [
+                90.69999694824219,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_hbarrier_4m",
+            "DisplayName": "bldr_hbarrier_4m",
+            "Position": [
+                11092.7001953125,
+                373.67999267578127,
+                10869.599609375
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_hbarrier_round",
+            "DisplayName": "bldr_hbarrier_round",
+            "Position": [
+                11091.7001953125,
+                373.7049865722656,
+                10884.5
+            ],
+            "Orientation": [
+                -113.6999740600586,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        }
+    ],
+    "EditorDeletedObjects": []
+}
