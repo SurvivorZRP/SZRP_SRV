@@ -1,0 +1,21 @@
+{
+    "IsCreditCarNeededForTransaction": 0,
+    "TransactionFees": 0.05000000074505806,
+    "DefaultStartCurrency": 0,
+    "DefaultMaxCurrency": 100000000,
+    "TextUI": "BANK AMOUNT:,Fees:,PLAYER AMOUNT:,MAX:,WITHDRAW,DEPOSIT,PLAYER ACCOUNT,NUMBER ONLY !,YOU CANNOT PUT NEGATIVE OR NULL VALUE!,AMOUNT DESIRED IS SUPERIOR TO BANK AMOUNT!,AMOUNT IS GOING TO REACH BANK AMOUNT LIMIT!,NOT ENOUGH MONEY!,TRANSACTION AMOUNT:",
+    "CurrenciesAccepted": [
+        "TraderPlus_Money_Ruble5000",
+        "TraderPlus_Money_Ruble2000",
+        "TraderPlus_Money_Ruble1000",
+        "TraderPlus_Money_Ruble500",
+        "TraderPlus_Money_Ruble200",
+        "TraderPlus_Money_Ruble100",
+        "TraderPlus_Money_Ruble50",
+        "TraderPlus_Money_Ruble10",
+        "TraderPlus_Money_Ruble5",
+        "TraderPlus_Money_Ruble5_Coin",
+        "TraderPlus_Money_Ruble2_Coin",
+        "TraderPlus_Money_Ruble1_Coin"
+    ]
+}

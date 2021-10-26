@@ -1,0 +1,16 @@
+# Ignore everything:
+*
+!*/
+!.gitignore
+!/profiles/**
+!/profiles/**/*
+!/profiles/**/**/*
+**.log
+**.ADM
+**.RPT
+**.zip
+/profiles/gamelabs.cfg
+/profiles/@Logging/
+/profiles/BattlEye/
+
+

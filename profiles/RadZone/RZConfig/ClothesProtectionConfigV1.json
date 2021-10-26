@@ -1,0 +1,74 @@
+{
+    "RZListSlotProtection": [
+        {
+            "SlotName": "Mask",
+            "ListProtections": [
+                {
+                    "ClotheName": "GP5GasMask",
+                    "Protection": 1
+                },
+                {
+                    "ClotheName": "mag3_gasmask_mung",
+                    "Protection": 1
+                },
+                {
+                    "ClotheName": "stalker_gasmask_white_mung",
+                    "Protection": 1
+                },
+                {
+                    "ClotheName": "stalker_gasmask_black_mung",
+                    "Protection": 1
+                }
+            ]
+        },
+        {
+            "SlotName": "Headgear",
+            "ListProtections": [
+                {
+                    "ClotheName": "NBCHoodBase",
+                    "Protection": 1
+                }
+            ]
+        },
+        {
+            "SlotName": "Body",
+            "ListProtections": [
+                {
+                    "ClotheName": "NBCJacketBase",
+                    "Protection": 1
+                },
+                {
+                    "ClotheName": "nbc_longcoat_mung",
+                    "Protection": 1
+                }
+            ]
+        },
+        {
+            "SlotName": "Gloves",
+            "ListProtections": [
+                {
+                    "ClotheName": "NBCGloves_ColorBase",
+                    "Protection": 1
+                }
+            ]
+        },
+        {
+            "SlotName": "Legs",
+            "ListProtections": [
+                {
+                    "ClotheName": "NBCPantsBase",
+                    "Protection": 1
+                }
+            ]
+        },
+        {
+            "SlotName": "Feet",
+            "ListProtections": [
+                {
+                    "ClotheName": "NBCBootsBase",
+                    "Protection": 1
+                }
+            ]
+        }
+    ]
+}

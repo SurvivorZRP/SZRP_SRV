@@ -1,0 +1,31 @@
+{
+    "IsRadiationZoneActive": 1,
+    "RadChanceVomit": 0.25,
+    "RadChanceBleeding": 0.20,
+    "RadBloodLossDamage": 100.0,
+    "RadHealthDamage": 2.0,
+    "RadHighMultiplier": 2.5,
+    "QtyRadReducedPerMin": 120.0,
+    "SuitsDamage": 5,
+    "RequiredProtection": 6,
+    "CriticalProtection": 70,
+    "ClothesQuantityMultiplier": 0.15000000596046449,
+    "AmountGivenAfterCriticalProtection": 0.20000000298023225,
+    "RadiationAreaLocation": [
+        {
+            "RadiationZoneStatut": "Tisovik",
+            "X": 11998.4,
+            "Y": 14925.5,
+            "Radius": 400.0,
+            "IsSquareZone": 0,
+            "X1": -1.0,
+            "Y1": -1.0,
+            "X2": -1.0,
+            "Y2": -1.0,
+            "IsMsgActive": 1,
+            "MsgEnterZone": "YOU ARE IN A RADIATION AREA!",
+            "MsgExitZone": "YOU LEFT THE RADIATION AREA!",
+            "NbSickGivenForRadiation": 100
+        }
+    ]
+}

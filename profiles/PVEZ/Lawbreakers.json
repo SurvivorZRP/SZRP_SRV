@@ -1,0 +1,34 @@
+[
+    {
+        "Id": "dn35xA5xAF-adiIub7J5D7wPQICBi79QqylY_0hRLNo=",
+        "Recent_Character_Names": [
+            "S.BoBo",
+            "Beaker",
+            "SteveMyers"
+        ],
+        "Murder_Count": 13,
+        "Latest_Murder_Time": {
+            "Year": 2021,
+            "Month": 10,
+            "Day": 23,
+            "Hour": 15,
+            "Minute": 35
+        },
+        "Is_Currently_Outlaw": 0
+    },
+    {
+        "Id": "CGivH4kPRRKXxcYl-gOxm2GHW2EdFziNbUdDaXa2jX0=",
+        "Recent_Character_Names": [
+            "R. Johnson"
+        ],
+        "Murder_Count": 3,
+        "Latest_Murder_Time": {
+            "Year": 2021,
+            "Month": 10,
+            "Day": 23,
+            "Hour": 6,
+            "Minute": 55
+        },
+        "Is_Currently_Outlaw": 0
+    }
+]

@@ -1,0 +1,385 @@
+{
+  "m_CraftClasses": {
+    "m_CustomizationSetting": {
+      "PathToMainBackgroundImg": "my path to main img",
+      "PathToRepairImg": "WorkbenchLayout/gui/data/repair.edds",
+      "PathToPaintImg": "WorkbenchLayout/gui/data/paint.edds",
+      "PathToCraftImg": "WorkbenchLayout/gui/data/crafting.edds"
+    },
+    "WorkbenchesClassnames": [
+      "BP_Workbench"
+    ],
+    "CraftItems": [
+      {
+        "Result": "Nail",
+        "ResultCount": 20,
+        "CraftType": "craft",
+        "RecipeName": "Craft Nails",
+        "CraftComponents": [
+          {
+            "Classname": "MetalWire",
+            "Amount": 1,
+            "Destroy": 1,
+            "Changehealth": 0
+          },
+          {
+            "Classname": "Pliers",
+            "Amount": 1,
+            "Destroy": 0,
+            "Changehealth": -10
+          }
+        ],
+        "AttachmentsNeed": [
+          "BPGrinder"
+        ]
+      },
+      {
+        "Result": "WoodenPlank",
+        "ResultCount": 5,
+        "CraftType": "craft",
+        "RecipeName": "Cut Planks (HandSaw)",
+        "CraftComponents": [
+          {
+            "Classname": "WoodenLog",
+            "Amount": 1,
+            "Destroy": 1,
+            "Changehealth": 0
+          },
+          {
+            "Classname": "HandSaw",
+            "Amount": 1,
+            "Destroy": 0,
+            "Changehealth": -10
+          }
+        ],
+        "AttachmentsNeed": []
+      },
+      {
+        "Result": "WoodenPlank",
+        "ResultCount": 6,
+        "CraftType": "craft",
+        "RecipeName": "Cut Planks (BenchSaw)",
+        "CraftComponents": [
+          {
+            "Classname": "WoodenLog",
+            "Amount": 1,
+            "Destroy": 1,
+            "Changehealth": 0
+          }
+        ],
+        "AttachmentsNeed": [
+          "BPCutting_saw"
+        ]
+      },
+      {
+        "Result": "SeaChest",
+        "ResultCount": 1,
+        "CraftType": "craft",
+        "RecipeName": "Craft Sea Chest",
+        "CraftComponents": [
+          {
+            "Classname": "WoodenPlank",
+            "Amount": 10,
+            "Destroy": 1,
+            "Changehealth": 0
+          },
+          {
+            "Classname": "Nail",
+            "Amount": 40,
+            "Destroy": 1,
+            "Changehealth": 0
+          },
+          {
+            "Classname": "Hammer",
+            "Amount": 1,
+            "Destroy": 0,
+            "Changehealth": -10
+          }
+        ],
+        "AttachmentsNeed": [
+          "BPCutting_saw"
+        ]
+      },
+      {
+        "Result": "Msp_EmptySquarePlanterBox",
+        "ResultCount": 1,
+        "CraftType": "craft",
+        "RecipeName": "Craft Square Planter",
+        "CraftComponents": [
+          {
+            "Classname": "WoodenPlank",
+            "Amount": 5,
+            "Destroy": 1,
+            "Changehealth": 0
+          },
+          {
+            "Classname": "Nail",
+            "Amount": 20,
+            "Destroy": 1,
+            "Changehealth": 0
+          },
+          {
+            "Classname": "Hammer",
+            "Amount": 1,
+            "Destroy": 0,
+            "Changehealth": -10
+          }
+        ],
+        "AttachmentsNeed": []
+      },
+      {
+        "Result": "Msp_EmptyPlanterBox",
+        "ResultCount": 1,
+        "CraftType": "craft",
+        "RecipeName": "Craft Planter Box",
+        "CraftComponents": [
+          {
+            "Classname": "WoodenPlank",
+            "Amount": 8,
+            "Destroy": 1,
+            "Changehealth": 0
+          },
+          {
+            "Classname": "Nail",
+            "Amount": 35,
+            "Destroy": 1,
+            "Changehealth": 0
+          },
+          {
+            "Classname": "Hammer",
+            "Amount": 1,
+            "Destroy": 0,
+            "Changehealth": -15
+          }
+        ],
+        "AttachmentsNeed": []
+      },
+      {
+        "Result": "Msp_AppleCrate",
+        "ResultCount": 1,
+        "CraftType": "craft",
+        "RecipeName": "Craft Apple Crate",
+        "CraftComponents": [
+          {
+            "Classname": "WoodenPlank",
+            "Amount": 4,
+            "Destroy": 1,
+            "Changehealth": 0
+          },
+          {
+            "Classname": "Nail",
+            "Amount": 10,
+            "Destroy": 1,
+            "Changehealth": 0
+          },
+          {
+            "Classname": "Hammer",
+            "Amount": 1,
+            "Destroy": 0,
+            "Changehealth": -10
+          }
+        ],
+        "AttachmentsNeed": []
+      },
+      {
+        "Result": "Msp_AmericanAppleCrate",
+        "ResultCount": 1,
+        "CraftType": "craft",
+        "RecipeName": "Craft Apple Crate",
+        "CraftComponents": [
+          {
+            "Classname": "WoodenPlank",
+            "Amount": 4,
+            "Destroy": 1,
+            "Changehealth": 0
+          },
+          {
+            "Classname": "Nail",
+            "Amount": 10,
+            "Destroy": 1,
+            "Changehealth": 0
+          },
+          {
+            "Classname": "Hammer",
+            "Amount": 1,
+            "Destroy": 0,
+            "Changehealth": -10
+          }
+        ],
+        "AttachmentsNeed": []
+      },
+      {
+        "Result": "Msp_WaterBarrel_Stand",
+        "ResultCount": 1,
+        "CraftType": "craft",
+        "RecipeName": "Craft Water Barrel Stand",
+        "CraftComponents": [
+          {
+            "Classname": "WoodenPlank",
+            "Amount": 4,
+            "Destroy": 1,
+            "Changehealth": 0
+          },
+          {
+            "Classname": "Nail",
+            "Amount": 10,
+            "Destroy": 1,
+            "Changehealth": 0
+          },
+          {
+            "Classname": "Hammer",
+            "Amount": 1,
+            "Destroy": 0,
+            "Changehealth": -10
+          }
+        ],
+        "AttachmentsNeed": []
+      },
+      {
+        "Result": "Msp_WaterBarrel_Stand_Darkwood",
+        "ResultCount": 1,
+        "CraftType": "craft",
+        "RecipeName": "Craft Water Barrel Stand",
+        "CraftComponents": [
+          {
+            "Classname": "WoodenPlank",
+            "Amount": 4,
+            "Destroy": 1,
+            "Changehealth": 0
+          },
+          {
+            "Classname": "Nail",
+            "Amount": 10,
+            "Destroy": 1,
+            "Changehealth": 0
+          },
+          {
+            "Classname": "Hammer",
+            "Amount": 1,
+            "Destroy": 0,
+            "Changehealth": -10
+          }
+        ],
+        "AttachmentsNeed": []
+      },
+      {
+        "Result": "Msp_WaterBarrel",
+        "ResultCount": 1,
+        "CraftType": "craft",
+        "RecipeName": "Craft Water Barrel",
+        "CraftComponents": [
+          {
+            "Classname": "WoodenPlank",
+            "Amount": 10,
+            "Destroy": 1,
+            "Changehealth": 0
+          },
+          {
+            "Classname": "Nail",
+            "Amount": 40,
+            "Destroy": 1,
+            "Changehealth": 0
+          },
+          {
+            "Classname": "MetalPlate",
+            "Amount": 4,
+            "Destroy": 1,
+            "Changehealth": 0
+          },
+          {
+            "Classname": "Hammer",
+            "Amount": 1,
+            "Destroy": 0,
+            "Changehealth": -25
+          },
+          {
+            "Classname": "EpoxyPutty",
+            "Amount": 25,
+            "Destroy": 1,
+            "Changehealth": 0
+          }
+        ],
+        "AttachmentsNeed": [
+          "BPCutting_saw"
+        ]
+      },
+      {
+        "Result": "Msp_WaterBarrel_Darkwood",
+        "ResultCount": 1,
+        "CraftType": "craft",
+        "RecipeName": "Craft Water Barrel",
+        "CraftComponents": [
+          {
+            "Classname": "WoodenPlank",
+            "Amount": 10,
+            "Destroy": 1,
+            "Changehealth": 0
+          },
+          {
+            "Classname": "Nail",
+            "Amount": 40,
+            "Destroy": 1,
+            "Changehealth": 0
+          },
+          {
+            "Classname": "MetalPlate",
+            "Amount": 4,
+            "Destroy": 1,
+            "Changehealth": 0
+          },
+          {
+            "Classname": "Hammer",
+            "Amount": 1,
+            "Destroy": 0,
+            "Changehealth": -25
+          },
+          {
+            "Classname": "EpoxyPutty",
+            "Amount": 25,
+            "Destroy": 1,
+            "Changehealth": 0
+          }
+        ],
+        "AttachmentsNeed": [
+          "BPCutting_saw"
+        ]
+      },
+      {
+        "Result": "Msp_WaterBarrel_Valve",
+        "ResultCount": 1,
+        "CraftType": "craft",
+        "RecipeName": "Craft Water Valve",
+        "CraftComponents": [
+          {
+            "Classname": "WoodenPlank",
+            "Amount": 1,
+            "Destroy": 1,
+            "Changehealth": 0
+          }
+        ],
+        "AttachmentsNeed": [
+          "BPCutting_saw",
+          "BPDrill"
+        ]
+      },
+      {
+        "Result": "Msp_WaterBarrel_Valve_Darkwood",
+        "ResultCount": 1,
+        "CraftType": "craft",
+        "RecipeName": "Craft Water Valve",
+        "CraftComponents": [
+          {
+            "Classname": "WoodenPlank",
+            "Amount": 1,
+            "Destroy": 1,
+            "Changehealth": 0
+          }
+        ],
+        "AttachmentsNeed": [
+          "BPCutting_saw",
+          "BPDrill"
+        ]
+      }
+    ]
+  }
+}

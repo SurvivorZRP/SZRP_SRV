@@ -1,0 +1,33 @@
+{
+    "EnableNameTag": 1,
+    "EnableAfkDisconnect": 1,
+    "KickAfterDelay": 30,
+    "MsgEnterZone": "YOU HAVE ENTERED THE SAFEZONE!",
+    "MsgExitZone": "YOU HAVE LEFT THE SAFEZONE!",
+    "MsgOnLeavingZone": "LEAVING ZONE IN:",
+    "SafeAreaLocation": [
+        {
+            "SafeZoneStatut": "General Trader",
+            "X": 8685.650390625,
+            "Y": 7025.1201171875,
+            "Radius": 200.0,
+            "Countdown": 30
+        },
+        {
+            "SafeZoneStatut": "Military Trader",
+            "X": 14299.2998046875,
+            "Y": 5180.33984375,
+            "Radius": 350.0,
+            "Countdown": 30
+        }
+    ],
+    "CleanUpTimer": 1200,
+    "ObjectsToDelete": [
+        "Paper"
+    ],
+    "SZSteamUIDs": [
+        "76561198139872259",
+        "76561198056837766",
+        "76561198018801840"
+    ]
+}

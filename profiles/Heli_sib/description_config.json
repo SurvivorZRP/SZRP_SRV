@@ -1,0 +1,63 @@
+//////////ENG///////
+
+    "duration": 0.05_, - rotor_ spin speed_
+    "Lift_power": 1.5_, - air resistance level - for large_ helicopters there should be more
+    "No_power": 700_, - how much the helicopter loses traction compared to Full_power
+    "Full_power": 750_, - the maximum height when the helicopter loses its thrust
+    "side_strength": 1.3_, - main rotor_ erosion
+    "power_before": 1_, - power of the rear rotor_
+    "friction": 0.3_, - friction coefficient
+    "Mass": 1500.81_, - weight
+    "incline": 0.5_, - side inclination speed_
+    "front_tilt": 0.5_, - tilt in front and back
+    "inclineMouse": 2.5_, - side inclination speed_Mouse
+    "front_tiltMouse": 2.5_, - tilt in front and back_Mouse
+    "m_povorot": 0.5_, -  rotation  speed_
+    "Chassis": 0_, example 0-1- damage_ to the wheels or the stand
+    "Body": 0_, example 0-1- nose damage_
+    "Engine": 1_, example 0-1- engine damage_
+    "Fuel": 0_, example 0-1 damage_ Fuel 
+    "Rotor1": 0_, example 0-1- damage_ to the main rotor_
+    "Rotor2": 0_, example 0-1- damage_ to the rotor_ 2
+    "kill_z": 0_, example 0-1- deal damage_ to players with damage_ from a blow
+    "gasoline_costs": 0.001_, - gasoline_ waste
+    "gasoline_restart": 1_,  example 0-1- automatic_ refueling at restart
+    "c_camDistance": 10_,  example 0.1-100 - distance camera
+    "maxFuel": 30_,  example 0.1-100 - max_ Fuel_
+    "m_Crash_dem": 15_,  example 0.1-100 - maximum_speed at which the sound of Crash
+    "m_engineVolume": 1_,  example 0.001-100 - Volume sound engine
+    "m_rotorVolume": 1_,  example 0.001-100 -  Volume sound rotor
+    "m_warningVolume": 1_,  example 0.001-100 - Volume sound warning
+    "m_crashVolume": 1_,  example 0.001-100 -  Volume sound crash
+
+//////////RUS///////
+
+    "duration": 0.05_, - скорость раскрутки ротора
+    "Lift_power": 1.5_, - уровень сопротивления воздуху - для больших вертолетов должно быть больше
+    "No_power": 700_, -  на сколько вертолет теряет тягу посравнению с Full_power
+    "Full_power": 750_,  - максимальная высота когда вертолет теряет поную тягу
+    "side_strength": 1.3_, - мошность главного ротора
+    "power_before": 1_, - мощность заднего ротора
+    "friction": 0.3_, - коофициент трения
+    "Mass": 1500.81_, - вес 
+    "incline": 0.5_,  - скорость наклона в бок
+    "front_tilt": 0.5_, - наклон в перед и назад
+    "inclineMouse": 2.5_, - скорость наклона в бок мышью
+    "front_tiltMouse": 2.5_, -наклон в перед и назад мышью
+    "m_povorot": 0.5_, - скорость поворота на 90_ градусов _
+    "Chassis": 0_, 1_ вкл 0_ выкл - колеса
+    "Body": 0_,  1 вкл 0_ выкл- корпус 
+    "Engine": 1_,  1_ вкл 0_ выкл - движок
+    "Fuel": 0_,  1 вкл 0 выкл бак 
+    "Rotor1": 0_,  1_ вкл 0_ выкл главный ротор
+    "Rotor2": 0_,  1_ вкл 0_ выкл ротор 2_ 
+    "kill_z": 0_, пример 1-0 - наносить урон игрокам при повреждении от удара
+    "gasoline_costs": 0.001_, - трата бензина
+    "gasoline_restart": 1_,  пример 1-0- автоматическая заправка при рестарте
+    "c_camDistance": 10_,  пример 0.1-100- дальность камеры
+    "maxFuel": 10_  пример 0.1-100- макс бензина
+    "m_Crash_dem": 15_  пример 0.1-100- максимальная скорость при котором будет звук урона
+    "m_engineVolume": 1_,  example 0.001-100 - уровень звука engine
+    "m_rotorVolume": 1_,  example 0.001-100 -  уровень звука rotor
+    "m_warningVolume": 1_,  example 0.001-100 - уровень звука warning
+    "m_crashVolume": 1_,  example 0.001-100 -  уровень звука crash

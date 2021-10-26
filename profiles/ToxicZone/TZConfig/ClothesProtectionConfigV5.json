@@ -1,0 +1,59 @@
+{
+    "RequiredProtection": 6,
+    "TZListSlotProtection": [
+        {
+            "SlotName": "Mask",
+            "ListProtections": [
+                {
+                    "ClotheName": "GP5GasMask",
+                    "Protection": 0
+                }
+            ]
+        },
+        {
+            "SlotName": "Headgear",
+            "ListProtections": [
+                {
+                    "ClotheName": "NBCHoodBase",
+                    "Protection": 1
+                }
+            ]
+        },
+        {
+            "SlotName": "Body",
+            "ListProtections": [
+                {
+                    "ClotheName": "NBCJacketBase",
+                    "Protection": 1
+                }
+            ]
+        },
+        {
+            "SlotName": "Gloves",
+            "ListProtections": [
+                {
+                    "ClotheName": "NBCGloves_ColorBase",
+                    "Protection": 1
+                }
+            ]
+        },
+        {
+            "SlotName": "Legs",
+            "ListProtections": [
+                {
+                    "ClotheName": "NBCPantsBase",
+                    "Protection": 1
+                }
+            ]
+        },
+        {
+            "SlotName": "Feet",
+            "ListProtections": [
+                {
+                    "ClotheName": "NBCBootsBase",
+                    "Protection": 1
+                }
+            ]
+        }
+    ]
+}

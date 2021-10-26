@@ -1,0 +1,10 @@
+{
+    "Enabled": 1,
+    "Items": [
+        {
+            "className": "TraderPlus_Money_Ruble5000",
+            "displayName": "5000 RUB",
+            "amount": 20
+        }
+    ]
+}

@@ -1,0 +1,216 @@
+{
+    "TimerLoot": 2700000,
+    "IsActive": 1,
+    "ListLoots": [
+        {
+            "Name": "Army1",
+            "Loots": [
+                {
+                    "LootName": "AKM",
+                    "ProbToSpawn": 0.6000000238418579,
+                    "AttachmentsToLoot": [
+                        {
+                            "AttachName": "Mag_AKM_30Rnd",
+                            "ProbAttachToSpawn": 0.5
+                        },
+                        {
+                            "AttachName": "Mag_AKM_30Rnd",
+                            "ProbAttachToSpawn": 0.5
+                        },
+                        {
+                            "AttachName": "PSO1Optic",
+                            "ProbAttachToSpawn": 0.5
+                        },
+                        {
+                            "AttachName": "Mag_AKM_Drum75Rnd",
+                            "ProbAttachToSpawn": 0.20000000298023225
+                        },
+                        {
+                            "AttachName": "AK_Suppressor",
+                            "ProbAttachToSpawn": 0.30000001192092898
+                        },
+                        {
+                            "AttachName": "AK_PlasticHndgrd",
+                            "ProbAttachToSpawn": 0.8500000238418579
+                        },
+                        {
+                            "AttachName": "AK_RailHndgrd_Black",
+                            "ProbAttachToSpawn": 0.8500000238418579
+                        },
+                        {
+                            "AttachName": "AK_Bayonet",
+                            "ProbAttachToSpawn": 0.4000000059604645
+                        },
+                        {
+                            "AttachName": "AK_FoldingBttstck_Black",
+                            "ProbAttachToSpawn": 0.6000000238418579
+                        }
+                    ]
+                },
+                {
+                    "LootName": "M4A1",
+                    "ProbToSpawn": 0.6000000238418579,
+                    "AttachmentsToLoot": [
+                        {
+                            "AttachName": "Mag_STANAG_30Rnd",
+                            "ProbAttachToSpawn": 0.5
+                        },
+                        {
+                            "AttachName": "Mag_STANAGCoupled_30Rnd",
+                            "ProbAttachToSpawn": 0.30000001192092898
+                        },
+                        {
+                            "AttachName": "ACOGOptic",
+                            "ProbAttachToSpawn": 0.4000000059604645
+                        },
+                        {
+                            "AttachName": "M4_CarryHandleOptic",
+                            "ProbAttachToSpawn": 0.6000000238418579
+                        },
+                        {
+                            "AttachName": "M4_CQBBttstck",
+                            "ProbAttachToSpawn": 0.699999988079071
+                        },
+                        {
+                            "AttachName": "M4_MPBttstck",
+                            "ProbAttachToSpawn": 0.4000000059604645
+                        },
+                        {
+                            "AttachName": "M4_MPHndgrd",
+                            "ProbAttachToSpawn": 0.699999988079071
+                        },
+                        {
+                            "AttachName": "M4_RISHndgrd",
+                            "ProbAttachToSpawn": 0.5
+                        },
+                        {
+                            "AttachName": "M4_Suppressor",
+                            "ProbAttachToSpawn": 0.4000000059604645
+                        }
+                    ]
+                },
+                {
+                    "LootName": "ToxicCure",
+                    "ProbToSpawn": 0.699999988079071,
+                    "AttachmentsToLoot": []
+                },
+                {
+                    "LootName": "AmmoBox_545x39_20Rnd",
+                    "ProbToSpawn": 0.800000011920929,
+                    "AttachmentsToLoot": []
+                },
+                {
+                    "LootName": "AmmoBox_556x45_20Rnd",
+                    "ProbToSpawn": 0.800000011920929,
+                    "AttachmentsToLoot": []
+                },
+                {
+                    "LootName": "AmmoBox_762x39_20Rnd",
+                    "ProbToSpawn": 0.800000011920929,
+                    "AttachmentsToLoot": []
+                },
+                {
+                    "LootName": "AmmoBox_762x54_20Rnd",
+                    "ProbToSpawn": 0.800000011920929,
+                    "AttachmentsToLoot": []
+                }
+            ]
+        },
+        {
+            "Name": "Army2",
+            "Loots": [
+                {
+                    "LootName": "SVD",
+                    "ProbToSpawn": 0.4000000059604645,
+                    "AttachmentsToLoot": [
+                        {
+                            "AttachName": "PSO1Optic",
+                            "ProbAttachToSpawn": 0.3499999940395355
+                        },
+                        {
+                            "AttachName": "Mag_SVD_10Rnd",
+                            "ProbAttachToSpawn": 0.5
+                        }
+                    ]
+                },
+                {
+                    "LootName": "AK74",
+                    "ProbToSpawn": 0.6000000238418579,
+                    "AttachmentsToLoot": [
+                        {
+                            "AttachName": "AK_RailHndgrd_Black",
+                            "ProbAttachToSpawn": 0.699999988079071
+                        },
+                        {
+                            "AttachName": "AK74_WoodBttstck",
+                            "ProbAttachToSpawn": 0.699999988079071
+                        },
+                        {
+                            "AttachName": "AK_Bayonet",
+                            "ProbAttachToSpawn": 0.6000000238418579
+                        },
+                        {
+                            "AttachName": "AK_FoldingBttstck_Black",
+                            "ProbAttachToSpawn": 0.699999988079071
+                        },
+                        {
+                            "AttachName": "AK_Suppressor",
+                            "ProbAttachToSpawn": 0.44999998807907107
+                        },
+                        {
+                            "AttachName": "Mag_AK74_30Rnd",
+                            "ProbAttachToSpawn": 0.6000000238418579
+                        }
+                    ]
+                },
+                {
+                    "LootName": "FAL",
+                    "ProbToSpawn": 0.30000001192092898,
+                    "AttachmentsToLoot": [
+                        {
+                            "AttachName": "Fal_FoldingBttstck",
+                            "ProbAttachToSpawn": 0.8500000238418579
+                        },
+                        {
+                            "AttachName": "Fal_OeBttstck",
+                            "ProbAttachToSpawn": 0.75
+                        },
+                        {
+                            "AttachName": "Mag_FAL_20Rnd",
+                            "ProbAttachToSpawn": 0.6000000238418579
+                        },
+                        {
+                            "AttachName": "ACOGOptic",
+                            "ProbAttachToSpawn": 0.44999998807907107
+                        }
+                    ]
+                },
+                {
+                    "LootName": "ToxicCure",
+                    "ProbToSpawn": 0.699999988079071,
+                    "AttachmentsToLoot": []
+                },
+                {
+                    "LootName": "AmmoBox_545x39_20Rnd",
+                    "ProbToSpawn": 0.800000011920929,
+                    "AttachmentsToLoot": []
+                },
+                {
+                    "LootName": "AmmoBox_556x45_20Rnd",
+                    "ProbToSpawn": 0.800000011920929,
+                    "AttachmentsToLoot": []
+                },
+                {
+                    "LootName": "AmmoBox_762x39_20Rnd",
+                    "ProbToSpawn": 0.800000011920929,
+                    "AttachmentsToLoot": []
+                },
+                {
+                    "LootName": "AmmoBox_762x54_20Rnd",
+                    "ProbToSpawn": 0.800000011920929,
+                    "AttachmentsToLoot": []
+                }
+            ]
+        }
+    ]
+}

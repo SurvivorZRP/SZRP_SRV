@@ -1,0 +1,26 @@
+{
+    "PrisonDebug": 1,
+    "CommandPrefix": "!",
+    "PickaxeCooldown": 1200,
+    "PrisonerWear": [
+        "Sneakers_Black",
+        "PrisonerCap",
+        "PrisonUniformPants",
+        "PrisonUniformJacket"
+    ],
+    "PrisonGatePos": "11079 372.958 10902.8",
+    "PrisonObjectLocations": [
+        {
+            "name": "Land_prison_gate",
+            "pos": [
+                "11074.7998046875 374.9219970703125 10902.7998046875|84.5999984741211 0.000000 0.000000"
+            ]
+        }
+    ],
+    "CellLocations": [
+        {
+            "name": "cell 1",
+            "spawnpos": "11059.5 373.25 10879.8"
+        }
+    ]
+}

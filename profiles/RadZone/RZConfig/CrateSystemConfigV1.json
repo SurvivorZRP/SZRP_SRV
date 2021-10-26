@@ -1,0 +1,446 @@
+{
+    "ListLoots": [
+        {
+            "Name": "NukeCleaningReward",
+            "Loots": [
+                {
+                    "LootName": "AKM",
+                    "IsWeapon": 1,
+                    "Magazine": "Mag_AKM_Drum75Rnd",
+                    "ProbToSpawn": 0.6000000238418579,
+                    "AttachmentsToLoot": [
+                        {
+                            "AttachName": "PSO1Optic",
+                            "ProbAttachToSpawn": 0.5
+                        },
+                        {
+                            "AttachName": "AK_Suppressor",
+                            "ProbAttachToSpawn": 0.30000001192092898
+                        },
+                        {
+                            "AttachName": "AK_PlasticHndgrd",
+                            "ProbAttachToSpawn": 0.8500000238418579
+                        },
+                        {
+                            "AttachName": "AK_RailHndgrd_Black",
+                            "ProbAttachToSpawn": 0.8500000238418579
+                        },
+                        {
+                            "AttachName": "AK_Bayonet",
+                            "ProbAttachToSpawn": 0.4000000059604645
+                        },
+                        {
+                            "AttachName": "AK_FoldingBttstck_Black",
+                            "ProbAttachToSpawn": 0.6000000238418579
+                        }
+                    ]
+                },
+                {
+                    "LootName": "M4A1",
+                    "IsWeapon": 1,
+                    "Magazine": "Mag_STANAGCoupled_30Rnd",
+                    "ProbToSpawn": 0.6000000238418579,
+                    "AttachmentsToLoot": [
+                        {
+                            "AttachName": "ACOGOptic",
+                            "ProbAttachToSpawn": 0.4000000059604645
+                        },
+                        {
+                            "AttachName": "M4_CarryHandleOptic",
+                            "ProbAttachToSpawn": 0.6000000238418579
+                        },
+                        {
+                            "AttachName": "M4_CQBBttstck",
+                            "ProbAttachToSpawn": 0.699999988079071
+                        },
+                        {
+                            "AttachName": "M4_MPBttstck",
+                            "ProbAttachToSpawn": 0.4000000059604645
+                        },
+                        {
+                            "AttachName": "M4_MPHndgrd",
+                            "ProbAttachToSpawn": 0.699999988079071
+                        },
+                        {
+                            "AttachName": "M4_RISHndgrd",
+                            "ProbAttachToSpawn": 0.5
+                        },
+                        {
+                            "AttachName": "M4_Suppressor",
+                            "ProbAttachToSpawn": 0.4000000059604645
+                        }
+                    ]
+                },
+                {
+                    "LootName": "SVD",
+                    "IsWeapon": 1,
+                    "Magazine": "Mag_SVD_10Rnd",
+                    "ProbToSpawn": 0.4000000059604645,
+                    "AttachmentsToLoot": [
+                        {
+                            "AttachName": "PSO1Optic",
+                            "ProbAttachToSpawn": 0.3499999940395355
+                        }
+                    ]
+                },
+                {
+                    "LootName": "AK74",
+                    "IsWeapon": 1,
+                    "Magazine": "Mag_AK74_30Rnd",
+                    "ProbToSpawn": 0.6000000238418579,
+                    "AttachmentsToLoot": [
+                        {
+                            "AttachName": "AK_RailHndgrd_Black",
+                            "ProbAttachToSpawn": 0.699999988079071
+                        },
+                        {
+                            "AttachName": "AK74_WoodBttstck",
+                            "ProbAttachToSpawn": 0.699999988079071
+                        },
+                        {
+                            "AttachName": "AK_Bayonet",
+                            "ProbAttachToSpawn": 0.6000000238418579
+                        },
+                        {
+                            "AttachName": "AK_FoldingBttstck_Black",
+                            "ProbAttachToSpawn": 0.699999988079071
+                        },
+                        {
+                            "AttachName": "AK_Suppressor",
+                            "ProbAttachToSpawn": 0.44999998807907107
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Name": "Army2",
+            "Loots": [
+                {
+                    "LootName": "FAL",
+                    "IsWeapon": 1,
+                    "Magazine": "Mag_FAL_20Rnd",
+                    "ProbToSpawn": 0.30000001192092898,
+                    "AttachmentsToLoot": [
+                        {
+                            "AttachName": "Fal_FoldingBttstck",
+                            "ProbAttachToSpawn": 0.8500000238418579
+                        },
+                        {
+                            "AttachName": "Fal_OeBttstck",
+                            "ProbAttachToSpawn": 0.75
+                        },
+                        {
+                            "AttachName": "ACOGOptic",
+                            "ProbAttachToSpawn": 0.44999998807907107
+                        }
+                    ]
+                },
+                {
+                    "LootName": "AmmoBox_545x39_20Rnd",
+                    "IsWeapon": 0,
+                    "Magazine": "",
+                    "ProbToSpawn": 0.800000011920929,
+                    "AttachmentsToLoot": []
+                },
+                {
+                    "LootName": "AmmoBox_556x45_20Rnd",
+                    "IsWeapon": 0,
+                    "Magazine": "",
+                    "ProbToSpawn": 0.800000011920929,
+                    "AttachmentsToLoot": [
+                        {
+                            "AttachName": "PSO1Optic",
+                            "ProbAttachToSpawn": 0.3499999940395355
+                        }
+                    ]
+                },
+                {
+                    "LootName": "SVD",
+                    "IsWeapon": 1,
+                    "Magazine": "Mag_SVD_10Rnd",
+                    "ProbToSpawn": 0.4000000059604645,
+                    "AttachmentsToLoot": [
+                        {
+                            "AttachName": "AK_RailHndgrd_Black",
+                            "ProbAttachToSpawn": 0.699999988079071
+                        },
+                        {
+                            "AttachName": "AK74_WoodBttstck",
+                            "ProbAttachToSpawn": 0.699999988079071
+                        },
+                        {
+                            "AttachName": "AK_Bayonet",
+                            "ProbAttachToSpawn": 0.6000000238418579
+                        },
+                        {
+                            "AttachName": "AK_FoldingBttstck_Black",
+                            "ProbAttachToSpawn": 0.699999988079071
+                        },
+                        {
+                            "AttachName": "AK_Suppressor",
+                            "ProbAttachToSpawn": 0.44999998807907107
+                        }
+                    ]
+                },
+                {
+                    "LootName": "AK74",
+                    "IsWeapon": 1,
+                    "Magazine": "Mag_AK74_30Rnd",
+                    "ProbToSpawn": 0.6000000238418579,
+                    "AttachmentsToLoot": []
+                }
+            ]
+        }
+    ],
+    "AreaLocation": [
+        {
+            "RZName": "NWAF",
+            "RZNbCrate": 1,
+            "CreaturesLists": [
+                {
+                    "CreatureName": "Animal_CanisLupus_Grey",
+                    "Max": 7,
+                    "ProbToSpawn": 1.0
+                },
+                {
+                    "CreatureName": "Animal_UrsusArctos",
+                    "Max": 1,
+                    "ProbToSpawn": 1.0
+                }
+            ],
+            "RZCrateLocations": [
+                {
+                    "RZContainer": "RadiationCase",
+                    "RZMaxLoot": 10,
+                    "Name": "Army2",
+                    "POS": [
+                        4623.64013671875,
+                        343.3190002441406,
+                        9557.330078125
+                    ],
+                    "ORI": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ]
+                },
+                {
+                    "RZContainer": "RadiationCase",
+                    "RZMaxLoot": 10,
+                    "Name": "Army2",
+                    "POS": [
+                        4552.64990234375,
+                        343.3190002441406,
+                        9553.4404296875
+                    ],
+                    "ORI": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ]
+                },
+                {
+                    "RZContainer": "RadiationCase",
+                    "RZMaxLoot": 10,
+                    "Name": "Army2",
+                    "POS": [
+                        4556.08984375,
+                        339.5719909667969,
+                        9528.4697265625
+                    ],
+                    "ORI": [
+                        -177.0,
+                        0.0,
+                        -0.0
+                    ]
+                },
+                {
+                    "RZContainer": "RadiationCase",
+                    "RZMaxLoot": 10,
+                    "Name": "Army2",
+                    "POS": [
+                        4622.56005859375,
+                        346.5,
+                        9549.5
+                    ],
+                    "ORI": [
+                        65.0,
+                        0.0,
+                        -0.0
+                    ]
+                },
+                {
+                    "RZContainer": "RadiationCase",
+                    "RZMaxLoot": 10,
+                    "Name": "Army2",
+                    "POS": [
+                        4446.35986328125,
+                        343.6940002441406,
+                        9619.9697265625
+                    ],
+                    "ORI": [
+                        35.0,
+                        0.0,
+                        -0.0
+                    ]
+                },
+                {
+                    "RZContainer": "RadiationCase",
+                    "RZMaxLoot": 10,
+                    "Name": "Army2",
+                    "POS": [
+                        4485.56982421875,
+                        342.4590148925781,
+                        9674.849609375
+                    ],
+                    "ORI": [
+                        -90.0,
+                        0.0,
+                        -0.0
+                    ]
+                },
+                {
+                    "RZContainer": "RadiationCase",
+                    "RZMaxLoot": 10,
+                    "Name": "Army2",
+                    "POS": [
+                        4545.8798828125,
+                        339.07501220703127,
+                        9690.740234375
+                    ],
+                    "ORI": [
+                        0.0,
+                        0.0,
+                        -0.0
+                    ]
+                }
+            ]
+        },
+        {
+            "RZName": "NEAF",
+            "RZNbCrate": 1,
+            "CreaturesLists": [
+                {
+                    "CreatureName": "Animal_CanisLupus_Grey",
+                    "Max": 7,
+                    "ProbToSpawn": 1.0
+                },
+                {
+                    "CreatureName": "Animal_UrsusArctos",
+                    "Max": 1,
+                    "ProbToSpawn": 1.0
+                }
+            ],
+            "RZCrateLocations": [
+                {
+                    "RZContainer": "RadiationCase",
+                    "RZMaxLoot": 10,
+                    "Name": "Army2",
+                    "POS": [
+                        11860.2001953125,
+                        141.06100463867188,
+                        12423.5
+                    ],
+                    "ORI": [
+                        -65.0,
+                        0.0,
+                        0.0
+                    ]
+                },
+                {
+                    "RZContainer": "RadiationCase",
+                    "RZMaxLoot": 10,
+                    "Name": "Army2",
+                    "POS": [
+                        11856.7001953125,
+                        140.58099365234376,
+                        12461.400390625
+                    ],
+                    "ORI": [
+                        -165.0,
+                        0.0000029936800274299459,
+                        -0.0000027418100216891618
+                    ]
+                },
+                {
+                    "RZContainer": "RadiationCase",
+                    "RZMaxLoot": 10,
+                    "Name": "Army2",
+                    "POS": [
+                        11830.7001953125,
+                        140.70599365234376,
+                        12462.099609375
+                    ],
+                    "ORI": [
+                        20.0,
+                        0.0,
+                        -0.0
+                    ]
+                },
+                {
+                    "RZContainer": "RadiationCase",
+                    "RZMaxLoot": 10,
+                    "Name": "Army2",
+                    "POS": [
+                        11839.0,
+                        141.343994140625,
+                        12472.7001953125
+                    ],
+                    "ORI": [
+                        115.0,
+                        0.0,
+                        -0.0
+                    ]
+                },
+                {
+                    "RZContainer": "RadiationCase",
+                    "RZMaxLoot": 10,
+                    "Name": "Army2",
+                    "POS": [
+                        11817.0,
+                        147.11099243164063,
+                        12542.599609375
+                    ],
+                    "ORI": [
+                        -53.0,
+                        0.0,
+                        -0.0
+                    ]
+                },
+                {
+                    "RZContainer": "RadiationCase",
+                    "RZMaxLoot": 10,
+                    "Name": "Army2",
+                    "POS": [
+                        11801.099609375,
+                        140.24400329589845,
+                        12576.2998046875
+                    ],
+                    "ORI": [
+                        58.0,
+                        0.0,
+                        -0.0
+                    ]
+                },
+                {
+                    "RZContainer": "RadiationCase",
+                    "RZMaxLoot": 10,
+                    "Name": "Army2",
+                    "POS": [
+                        12439.099609375,
+                        141.4199981689453,
+                        12514.5
+                    ],
+                    "ORI": [
+                        171.0,
+                        0.0,
+                        -0.0
+                    ]
+                }
+            ]
+        }
+    ],
+    "TimerLoot": 2700000,
+    "IsCrateSystemActive": 1
+}

@@ -1,0 +1,350 @@
+{
+    "ConvertTraderConfigToTraderPlus": 0,
+    "ConvertTraderConfigToTraderPlusWithStockBasedOnCE": 0,
+    "UseGarageToTradeCar": 0,
+    "DisableHeightFailSafeForReceiptDeployment": 0,
+    "EnableShowAllPrices": 0,
+    "EnableShowAllCheckBox": 0,
+    "EnableStockAllCategory": 0,
+    "IsReceiptTraderOnly": 1,
+    "LockPickChance": 0.30000001192092898,
+    "LicenceKeyWord": "License",
+    "Licences": [
+        "Drivers License",
+        "Military License",
+        "Military Vehicle License",
+        "Black Market License",
+        "Admin License"
+    ],
+    "AcceptedStates": {
+        "AcceptWorn": 1,
+        "AcceptDamaged": 0,
+        "AcceptBadlyDamaged": 0
+    },
+    "StoreOnlyToPristineState": 0,
+    "Currencies": [
+        {
+            "ClassName": "TraderPlus_Money_Ruble5000",
+            "Value": 5000
+        },
+        {
+            "ClassName": "TraderPlus_Money_Ruble2000, ",
+            "Value": 2000
+        },
+        {
+            "ClassName": "TraderPlus_Money_Ruble1000",
+            "Value": 1000
+        },
+        {
+            "ClassName": "TraderPlus_Money_Ruble500",
+            "Value": 500
+        },
+        {
+            "ClassName": "TraderPlus_Money_Ruble200",
+            "Value": 200
+        },
+        {
+            "ClassName": "TraderPlus_Money_Ruble100,TraderPlus_Money_Dollar100",
+            "Value": 100
+        },
+        {
+            "ClassName": "TraderPlus_Money_Ruble50,TraderPlus_Money_Dollar50",
+            "Value": 50
+        },
+        {
+            "ClassName": "TraderPlus_Money_Dollar20",
+            "Value": 20
+        },
+        {
+            "ClassName": "TraderPlus_Money_Ruble10,TraderPlus_Money_Dollar10",
+            "Value": 10
+        },
+        {
+            "ClassName": "TraderPlus_Money_Ruble5,TraderPlus_Money_Ruble5_Coin,TraderPlus_Money_Dollar5",
+            "Value": 5
+        },
+        {
+            "ClassName": "TraderPlus_Money_Ruble2_Coin,TraderPlus_Money_Dollar2",
+            "Value": 2
+        },
+        {
+            "ClassName": "TraderPlus_Money_Ruble1_Coin,TraderPlus_Money_Dollar1",
+            "Value": 1
+        }
+    ],
+    "Traders": [
+        {
+            "Id": 0,
+            "Name": "SurvivorF_Eva",
+            "GivenName": "Claire",
+            "Role": "Food and Meds Trader",
+            "Position": [
+                8703.3798828125,
+                303.50299072265627,
+                7055.509765625
+            ],
+            "Orientation": [
+                -171.70001220703126,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+                "Layered_Shirt_Cheburashka",
+                "Skinny_Jeans_Blue",
+                "SK8_Sneakers_FullBlack"
+            ]
+        },
+        {
+            "Id": 1,
+            "Name": "SurvivorF_Maria",
+            "GivenName": "Maria",
+            "Role": "Weapons Trader",
+            "Position": [
+                8709.8095703125,
+                302.7510070800781,
+                7047.02978515625
+            ],
+            "Orientation": [
+                -99.39999389648438,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+                "TacticalShirt_Black",
+                "CargoPants_Black",
+                "MilitaryBoots_Redpunk",
+                "Massurbancamohat",
+                "MSFC_Glasses_ESS_Crossbow"
+            ]
+        },
+        {
+            "Id": 2,
+            "Name": "SurvivorM_Manua",
+            "GivenName": "Manny",
+            "Role": "Tool Trader",
+            "Position": [
+                8662.169921875,
+                304.12957763671877,
+                7015.671875
+            ],
+            "Orientation": [
+                -24.500001907348634,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+                "Shirt_RedCheck",
+                "CargoPants_Beige",
+                "WorkingBoots_Brown",
+                "FlatCap_Brown",
+                "Lennon_glasses_blue_mung",
+                "cigarette_mung"
+            ]
+        },
+        {
+            "Id": 3,
+            "Name": "SurvivorF_Irena",
+            "GivenName": "Irena",
+            "Role": "Clothes Trader",
+            "Position": [
+                8706.8203125,
+                303.2035217285156,
+                7053.7001953125
+            ],
+            "Orientation": [
+                -154.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+                "MiniDress_PinkChecker",
+                "DressShoes_White"
+            ]
+        },
+        {
+            "Id": 4,
+            "Name": "SurvivorM_Lewis",
+            "GivenName": "Lewis",
+            "Role": "Banker",
+            "Position": [
+                8693.7197265625,
+                303.2430114746094,
+                7048.3701171875
+            ],
+            "Orientation": [
+                0.00028145333635620773,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+                "ManSuit_Black",
+                "SlacksPants_Black",
+                "DressShoes_Black"
+            ]
+        },
+        {
+            "Id": 5,
+            "Name": "SurvivorM_Oliver",
+            "GivenName": "Oliver",
+            "Role": "Weapon Accessories",
+            "Position": [
+                8704.0595703125,
+                302.510986328125,
+                7043.2001953125
+            ],
+            "Orientation": [
+                38.999961853027347,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+                "BDUJacket",
+                "CargoPants_Grey",
+                "HikingBoots_Black",
+                "BaseballCap_Camo",
+                "cigar_mung",
+                "MSFC_Glasses_ESS_RollBar"
+            ]
+        },
+        {
+            "Id": 6,
+            "Name": "SurvivorM_Indar",
+            "GivenName": "Kamal",
+            "Role": "Bar Keep",
+            "Position": [
+                8642.5302734375,
+                304.0639953613281,
+                7044.0498046875
+            ],
+            "Orientation": [
+                6.7558722496032719,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+                "ManSuit_White",
+                "SlacksPants_White",
+                "DressShoes_Black",
+                "MassFedora_White",
+                "cigar_mung",
+                "DesignerGlasses"
+            ]
+        },
+        {
+            "Id": 7,
+            "Name": "SurvivorM_Jose",
+            "GivenName": "Jose",
+            "Role": "Mil Weapons",
+            "Position": [
+                14280.7001953125,
+                559.8380126953125,
+                5186.31982421875
+            ],
+            "Orientation": [
+                63.007991790771487,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+                "MSFC_G3Pants_Multicam_Black",
+                "MSFC_M65_Jacket_MulticamBlack",
+                "MSFC_Boots_Lowa_MulticamBlack",
+                "MSFC_Tactical_Cap_Multicam_Black",
+                "cigar_mung",
+                "MSFC_Glasses_Oakley_M_Frame",
+                "MSFC_Gloves_MulticamBlack"
+            ]
+        },
+        {
+            "Id": 8,
+            "Name": "SurvivorF_Linda",
+            "GivenName": "Linda",
+            "Role": "Mil Accessories",
+            "Position": [
+                14284.099609375,
+                547.97998046875,
+                5192.06982421875
+            ],
+            "Orientation": [
+                149.11199951171876,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+                "MSFC_Gorka_Jacket_MulticamBlack",
+                "MSFC_Gorka_Pants_MulticamBlack",
+                "MSFC_Boots_MulticamBlack",
+                "MSFC_PlateCarrier_Vest_MulticamBlack_Logo",
+                "MSFC_Glasses_ESS_Crossbow"
+            ]
+        },
+        {
+            "Id": 9,
+            "Name": "SurvivorM_Boris",
+            "GivenName": "Boris",
+            "Role": "Vehicle Trader",
+            "Position": [
+                8662.349609375,
+                299.1809997558594,
+                7011.43994140625
+            ],
+            "Orientation": [
+                -127.29999542236328,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+                "TrackSuitJacket_Black",
+                "TrackSuitPants_Black",
+                "SK8_Sneakers_FullBlack",
+                "Ushanka_Black",
+                "cigar_mung",
+                "SportGlasses_Black",
+                "Fingerless_Gloves_Wool_Grey"
+            ]
+        },
+        {
+            "Id": 10,
+            "Name": "SurvivorM_Quinn",
+            "GivenName": "Quinn",
+            "Role": "Black Market Trader",
+            "Position": [
+                7331.47021484375,
+                584.2420043945313,
+                11965.5
+            ],
+            "Orientation": [
+                67.5,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+                "TrackSuitJacket_Black",
+                "TrackSuitPants_Black",
+                "SK8_Sneakers_FullBlack",
+                "Ushanka_Black",
+                "cigar_mung",
+                "SportGlasses_Black",
+                "Fingerless_Gloves_Wool_Grey"
+            ]
+        },
+        {
+            "Id": -2,
+            "Name": "TraderPlus_BANK_ATM",
+            "GivenName": "Bank ATM",
+            "Role": "Bank ATM",
+            "Position": [
+                8698.0595703125,
+                303.1470031738281,
+                7050.9599609375
+            ],
+            "Orientation": [
+                30.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": []
+        }
+    ],
+    "TraderObjects": []
+}

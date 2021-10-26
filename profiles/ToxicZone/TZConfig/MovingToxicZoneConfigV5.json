@@ -1,0 +1,28 @@
+{
+    "IsMovingZoneActive": 0,
+    "MovingToxicAreaLocation": [
+        {
+            "MovingToxicZoneStatut": "ZelenToNovy",
+            "IsMsgActive": 1,
+            "MsgEnterZone": "You're in a toxic area",
+            "MsgExitZone": "You're in a toxic area",
+            "StartX": 2000.0,
+            "StartY": 5000.0,
+            "EndX": 7442.0,
+            "EndY": 8330.0,
+            "Radius": 170.0,
+            "Coeff": 0.6119073629379273,
+            "YtoOrigin": 5000.0,
+            "Chance": 0.25,
+            "Speed": 30,
+            "Norme": 6379,
+            "NbSickGiven": 50,
+            "IsOnlyGasMask": 1,
+            "ParticleName": "GreenSmokeLong"
+        }
+    ],
+    "AdminUID": [
+        "76561198047475641"
+    ],
+    "StaticToxicAreaLocation": []
+}

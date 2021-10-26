@@ -1,0 +1,10 @@
+{
+    "StartHour": 22,
+    "StartMinute": 0,
+    "EndHour": 21,
+    "EndMinute": 59,
+    "RaidDays": [
+        "Friday",
+        "Saturday"
+    ]
+}

@@ -1,0 +1,475 @@
+{
+    "IsActive": 0,
+    "StartDelayAfterRestart": 300000,
+    "Duration": 3600000,
+    "NumberOfPlayers": 60,
+    "NumberOfLevel": 1,
+    "IsLootActive": 1,
+    "IsWarningMsgActive": 1,
+    "WarningMsg": "Warning ! A Plane that contain a Nuke bomb is heading toward ! Run for your life !",
+    "IsGlobalWarningMsgActive": 1,
+    "GlobalWarningMsg": "Warning ! A Plane that contain a Nuke bomb is heading to: ",
+    "RadNukeMissionsAreaLocation": [
+        {
+            "RadZoneStatut": "Severograd",
+            "X": 7899.0,
+            "Y": 12634.0,
+            "Radius": 600.0,
+            "NbSickGivenForRadiation": 90,
+            "Level": 1,
+            "IsMsgActive": 1,
+            "MsgEnterZone": "YOU ARE IN AN IRRADIED AREA",
+            "MsgExitZone": "YOU'RE LEAVING AN IRRADIED AREA",
+            "MsgAreaClean": "THIS AREA IS NO LONGER IRRRADIED",
+            "IsLootActive": 1,
+            "NukeWastesPosition": [
+                {
+                    "Name": "NukeCrater",
+                    "Pos": [
+                        7899.91015625,
+                        113.0,
+                        12634.7998046875
+                    ]
+                },
+                {
+                    "Name": "IrradiedDirtPile",
+                    "Pos": [
+                        7899.91015625,
+                        113.0,
+                        12634.7998046875
+                    ]
+                },
+                {
+                    "Name": "IrradiedDirtPile",
+                    "Pos": [
+                        7724.7099609375,
+                        132.0,
+                        12743.099609375
+                    ]
+                },
+                {
+                    "Name": "IrradiedDirtPile",
+                    "Pos": [
+                        7646.56982421875,
+                        119.8239974975586,
+                        12626.099609375
+                    ]
+                },
+                {
+                    "Name": "IrradiedDirtPile",
+                    "Pos": [
+                        7731.9599609375,
+                        127.23600006103516,
+                        12485.5
+                    ]
+                },
+                {
+                    "Name": "IrradiedDirtPile",
+                    "Pos": [
+                        7941.8701171875,
+                        118.84100341796875,
+                        12533.2001953125
+                    ]
+                },
+                {
+                    "Name": "IrradiedDirtPile",
+                    "Pos": [
+                        8013.77001953125,
+                        129.447998046875,
+                        12598.900390625
+                    ]
+                },
+                {
+                    "Name": "IrradiedDirtPile",
+                    "Pos": [
+                        8145.169921875,
+                        113.12799835205078,
+                        12680.099609375
+                    ]
+                },
+                {
+                    "Name": "IrradiedDirtPile",
+                    "Pos": [
+                        8164.2998046875,
+                        113.06900024414063,
+                        12812.599609375
+                    ]
+                },
+                {
+                    "Name": "IrradiedDirtPile",
+                    "Pos": [
+                        8017.0400390625,
+                        113.97899627685547,
+                        12781.5
+                    ]
+                }
+            ],
+            "RewardsLocations": [
+                {
+                    "RZContainer": "RadiationCase",
+                    "RZMaxLoot": 10,
+                    "Name": "NukeCleaningReward",
+                    "POS": [
+                        7940.31982421875,
+                        123.77200317382813,
+                        12709.5
+                    ],
+                    "ORI": [
+                        -25.69099998474121,
+                        0.0,
+                        0.0
+                    ]
+                },
+                {
+                    "RZContainer": "RadiationCase",
+                    "RZMaxLoot": 10,
+                    "Name": "NukeCleaningReward",
+                    "POS": [
+                        7910.47021484375,
+                        126.36399841308594,
+                        12605.5
+                    ],
+                    "ORI": [
+                        -80.0,
+                        0.0,
+                        0.0
+                    ]
+                },
+                {
+                    "RZContainer": "RadiationCase",
+                    "RZMaxLoot": 10,
+                    "Name": "NukeCleaningReward",
+                    "POS": [
+                        7788.10986328125,
+                        121.39099884033203,
+                        12627.400390625
+                    ],
+                    "ORI": [
+                        -20.0,
+                        0.0,
+                        0.0
+                    ]
+                }
+            ],
+            "CreaturesLists": [
+                {
+                    "CreatureName": "Animal_CanisLupus_Grey",
+                    "Max": 7,
+                    "ProbToSpawn": 1.0
+                },
+                {
+                    "CreatureName": "Animal_UrsusArctos",
+                    "Max": 1,
+                    "ProbToSpawn": 1.0
+                }
+            ]
+        },
+        {
+            "RadZoneStatut": "NovayaPetrovka",
+            "X": 3446.0,
+            "Y": 13045.0,
+            "Radius": 500.0,
+            "NbSickGivenForRadiation": 90,
+            "Level": 1,
+            "IsMsgActive": 1,
+            "MsgEnterZone": "YOU ARE IN AN IRRADIED AREA",
+            "MsgExitZone": "YOU'RE LEAVING AN IRRADIED AREA",
+            "MsgAreaClean": "THIS AREA IS NO LONGER IRRRADIED",
+            "IsLootActive": 1,
+            "NukeWastesPosition": [
+                {
+                    "Name": "NukeCrater",
+                    "Pos": [
+                        3446.570068359375,
+                        192.60000610351563,
+                        13045.7998046875
+                    ]
+                },
+                {
+                    "Name": "IrradiedDirtPile",
+                    "Pos": [
+                        3446.570068359375,
+                        192.60000610351563,
+                        13045.7998046875
+                    ]
+                },
+                {
+                    "Name": "IrradiedDirtPile",
+                    "Pos": [
+                        3335.469970703125,
+                        199.67999267578126,
+                        13029.2001953125
+                    ]
+                },
+                {
+                    "Name": "IrradiedDirtPile",
+                    "Pos": [
+                        3373.6298828125,
+                        198.2989959716797,
+                        13120.400390625
+                    ]
+                },
+                {
+                    "Name": "IrradiedDirtPile",
+                    "Pos": [
+                        3427.030029296875,
+                        198.14700317382813,
+                        13163.0
+                    ]
+                },
+                {
+                    "Name": "IrradiedDirtPile",
+                    "Pos": [
+                        3559.320068359375,
+                        193.5970001220703,
+                        13105.0
+                    ]
+                },
+                {
+                    "Name": "IrradiedDirtPile",
+                    "Pos": [
+                        3429.43994140625,
+                        198.0780029296875,
+                        12856.400390625
+                    ]
+                },
+                {
+                    "Name": "IrradiedDirtPile",
+                    "Pos": [
+                        3326.280029296875,
+                        198.16000366210938,
+                        12802.099609375
+                    ]
+                },
+                {
+                    "Name": "IrradiedDirtPile",
+                    "Pos": [
+                        3272.550048828125,
+                        200.78599548339845,
+                        12894.2001953125
+                    ]
+                },
+                {
+                    "Name": "IrradiedDirtPile",
+                    "Pos": [
+                        3419.010009765625,
+                        221.39999389648438,
+                        12733.0
+                    ]
+                }
+            ],
+            "RewardsLocations": [
+                {
+                    "RZContainer": "RadiationCase",
+                    "RZMaxLoot": 10,
+                    "Name": "NukeCleaningReward",
+                    "POS": [
+                        3445.639892578125,
+                        200.98899841308595,
+                        13094.2001953125
+                    ],
+                    "ORI": [
+                        -25.69099998474121,
+                        0.0,
+                        0.0
+                    ]
+                },
+                {
+                    "RZContainer": "RadiationCase",
+                    "RZMaxLoot": 10,
+                    "Name": "NukeCleaningReward",
+                    "POS": [
+                        3509.679931640625,
+                        192.61700439453126,
+                        13070.2001953125
+                    ],
+                    "ORI": [
+                        -80.0,
+                        0.0,
+                        0.0
+                    ]
+                },
+                {
+                    "RZContainer": "RadiationCase",
+                    "RZMaxLoot": 10,
+                    "Name": "NukeCleaningReward",
+                    "POS": [
+                        3420.300048828125,
+                        203.47500610351563,
+                        12972.900390625
+                    ],
+                    "ORI": [
+                        -20.0,
+                        0.0,
+                        0.0
+                    ]
+                }
+            ],
+            "CreaturesLists": [
+                {
+                    "CreatureName": "Animal_CanisLupus_Grey",
+                    "Max": 7,
+                    "ProbToSpawn": 1.0
+                },
+                {
+                    "CreatureName": "Animal_UrsusArctos",
+                    "Max": 1,
+                    "ProbToSpawn": 1.0
+                }
+            ]
+        },
+        {
+            "RadZoneStatut": "ZelenoGorsk",
+            "X": 2724.0,
+            "Y": 5309.0,
+            "Radius": 400.0,
+            "NbSickGivenForRadiation": 90,
+            "Level": 1,
+            "IsMsgActive": 1,
+            "MsgEnterZone": "YOU ARE IN AN IRRADIED AREA",
+            "MsgExitZone": "YOU'RE LEAVING AN IRRADIED AREA",
+            "MsgAreaClean": "THIS AREA IS NO LONGER IRRRADIED",
+            "IsLootActive": 1,
+            "NukeWastesPosition": [
+                {
+                    "Name": "NukeCrater",
+                    "Pos": [
+                        2724.81005859375,
+                        206.1999969482422,
+                        5309.81005859375
+                    ]
+                },
+                {
+                    "Name": "IrradiedDirtPile",
+                    "Pos": [
+                        2542.14990234375,
+                        190.66099548339845,
+                        5245.5
+                    ]
+                },
+                {
+                    "Name": "IrradiedDirtPile",
+                    "Pos": [
+                        2518.8701171875,
+                        193.88800048828126,
+                        5047.85986328125
+                    ]
+                },
+                {
+                    "Name": "IrradiedDirtPile",
+                    "Pos": [
+                        2808.070068359375,
+                        211.00399780273438,
+                        5448.2099609375
+                    ]
+                },
+                {
+                    "Name": "IrradiedDirtPile",
+                    "Pos": [
+                        2703.409912109375,
+                        207.68600463867188,
+                        5470.91015625
+                    ]
+                },
+                {
+                    "Name": "IrradiedDirtPile",
+                    "Pos": [
+                        2696.409912109375,
+                        206.35000610351563,
+                        5400.490234375
+                    ]
+                },
+                {
+                    "Name": "IrradiedDirtPile",
+                    "Pos": [
+                        2803.139892578125,
+                        207.24099731445313,
+                        5374.02978515625
+                    ]
+                },
+                {
+                    "Name": "IrradiedDirtPile",
+                    "Pos": [
+                        2736.52001953125,
+                        194.18699645996095,
+                        5062.97021484375
+                    ]
+                }
+            ],
+            "RewardsLocations": [
+                {
+                    "RZContainer": "RadiationCase",
+                    "RZMaxLoot": 10,
+                    "Name": "NukeCleaningReward",
+                    "POS": [
+                        2739.10009765625,
+                        215.5919952392578,
+                        5317.1201171875
+                    ],
+                    "ORI": [
+                        159.6909942626953,
+                        0.0,
+                        0.0
+                    ]
+                },
+                {
+                    "RZContainer": "RadiationCase",
+                    "RZMaxLoot": 10,
+                    "Name": "NukeCleaningReward",
+                    "POS": [
+                        2701.5,
+                        205.56900024414063,
+                        5255.81005859375
+                    ],
+                    "ORI": [
+                        -80.0,
+                        0.0,
+                        0.0
+                    ]
+                },
+                {
+                    "RZContainer": "RadiationCase",
+                    "RZMaxLoot": 10,
+                    "Name": "NukeCleaningReward",
+                    "POS": [
+                        2670.3798828125,
+                        205.67599487304688,
+                        5286.7900390625
+                    ],
+                    "ORI": [
+                        10.0,
+                        0.0,
+                        0.0
+                    ]
+                },
+                {
+                    "RZContainer": "RadiationCase",
+                    "RZMaxLoot": 10,
+                    "Name": "NukeCleaningReward",
+                    "POS": [
+                        2806.0400390625,
+                        208.6909942626953,
+                        5297.97021484375
+                    ],
+                    "ORI": [
+                        100.0,
+                        0.0,
+                        0.0
+                    ]
+                }
+            ],
+            "CreaturesLists": [
+                {
+                    "CreatureName": "Animal_CanisLupus_Grey",
+                    "Max": 7,
+                    "ProbToSpawn": 1.0
+                },
+                {
+                    "CreatureName": "Animal_UrsusArctos",
+                    "Max": 1,
+                    "ProbToSpawn": 1.0
+                }
+            ]
+        }
+    ]
+}

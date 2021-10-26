@@ -1,0 +1,41 @@
+Tiredness					= 1
+
+	TireTime (minutes)			= 210
+	EyeClosingPoint  (percent)		= 19
+	TextReports				= 1
+	EnergizingDrinkGain (percent)		= 20
+	EnergizingDrinkClass			= SodaCan_Cola
+	EnergizingDrinkClass			= SodaCan_Pipsi
+	EnergizingDrinkClass			= SodaCan_Spite
+	EnergizingDrinkClass			= SodaCan_Fronta
+
+	SleepingBagClass = MediumTent
+	SleepingBagClass = Msp_SleepingBag_Green
+	SleepingBagClass = Msp_SleepingBag_Blue
+	SleepingBagClass = Msp_SleepingBag_LimeGreen
+	SleepingBagClass = Msp_SleepingBag_Orange
+	SleepingBagClass = Msp_SleepingBag_Purple
+	SleepingBagClass = Msp_SleepingBag_Red
+	SleepingBagClass = BBP_Bed
+
+
+
+	SleepingDOF				= 1
+
+ZombieBleedChance (percent)			= 20
+ZombieSalmonellaChance (percent)		= 50
+WoundInfectionChance (percent)			= 50
+ZombieArmFractureChance (percent)		= 33
+FeverActive					= 1
+BrainDisease					= 1
+AntibioticsStrength				= 4
+SalineBloodRegen				= 0
+TestBloodSelf					= 1
+TestBloodTarget					= 1
+TestBloodToxin					= 1
+
+
+AlcoholicDrinkClass				= DisinfectantAlcohol = 3.5
+
+AlcoholicLiquid				= Beer
+AlcoholicLiquid				= Vodka = 2

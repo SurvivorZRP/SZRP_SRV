@@ -1,0 +1,10 @@
+{
+    "Name": "Jack HIll",
+    "MoneyAmount": 99999999,
+    "MaxAmount": 100000000,
+    "Licences": [
+        "Military License",
+        "Drivers License",
+        "Black Market License"
+    ]
+}
