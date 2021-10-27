@@ -5,19 +5,19 @@
     {
       "CategoryName": "Vegetables",
       "Products": [
-        "GreenBellPepper,1,100,150,15500,3100",
-        "Potato,1,100,200,100,10",
-        "Pumpkin,1,100,2300,800,30",
-        "Tomato,1,100,125,1900,380",
-        "Zucchini,1,100,200,3000,600",
-        "AgaricusMushroom,1,100,150,3200,700",
-        "AmanitaMushroom,1,100,150,3200,700",
-        "LactariusMushroom,1,100,150,3200,700",
-        "MacrolepiotaMushroom,1,100,150,3200,700",
-        "PsilocybeMushroom,1,100,50,3200,700",
-        "AuriculariaMushroom,1,100,150,3200,700",
-        "BoletusMushroom,1,100,150,3200,700",
-        "PleurotusMushroom,1,100,150,3200,700"
+        "GreenBellPepper,1,100,150,15500,3100,0.25",
+        "Potato,1,100,200,100,10,0.25",
+        "Pumpkin,1,100,2300,800,30,0.25",
+        "Tomato,1,100,125,1900,380,0.25",
+        "Zucchini,1,100,200,3000,600,0.25",
+        "AgaricusMushroom,1,100,150,3200,700,0.25",
+        "AmanitaMushroom,1,100,150,3200,700,0.25",
+        "LactariusMushroom,1,100,150,3200,700,0.25",
+        "MacrolepiotaMushroom,1,100,150,3200,700,0.25",
+        "PsilocybeMushroom,1,100,50,3200,700,0.25",
+        "AuriculariaMushroom,1,100,150,3200,700,0.25",
+        "BoletusMushroom,1,100,150,3200,700,0.25",
+        "PleurotusMushroom,1,100,150,3200,700,0.25"
       ]
     },
     {
@@ -123,34 +123,34 @@
     {
       "CategoryName": "Medical Supplies",
       "Products": [
-        "BandageDressing,1,40,4,12000,2400",
-        "BloodTestKit,1,40,0,8000,1600",
-        "DisinfectantSpray,1,40,500,18500,3700",
-        "DisinfectantAlcohol,1,80,200,12500,2500",
-        "Heatpack,1,50,0,2500,500",
-        "StartKitIV,1,40,0,3150,630",
-        "SalineBag,1,40,0,7750,1550",
-        "BloodBagEmpty,1,40,0,3150,630",
-        "IodineTincture,1,40,0,3150,630",
-        "SurgicalGloves_Blue,1,40,0,1600,320",
-        "SurgicalGloves_Green,1,40,0,1600,320",
-        "SurgicalGloves_LightBlue,1,40,0,1600,320",
-        "SurgicalGloves_White,1,40,0,1600,320",
-        "SurgicalMask,1,40,0,2100,420",
-        "NioshFaceMask,1,40,0,2750,550",
-        "AirborneMask,1,40,0,2750,550"
+        "BandageDressing,1,40,4,12000,2400,0.25",
+        "BloodTestKit,1,40,0,8000,1600,0.25",
+        "DisinfectantSpray,1,40,500,18500,3700,0.25",
+        "DisinfectantAlcohol,1,80,200,12500,2500,0.25",
+        "Heatpack,1,50,0,2500,500,0.25",
+        "StartKitIV,1,40,0,3150,630,0.25",
+        "SalineBag,1,40,0,7750,1550,0.25",
+        "BloodBagEmpty,1,40,0,3150,630,0.25",
+        "IodineTincture,1,40,0,3150,630,0.25",
+        "SurgicalGloves_Blue,1,40,0,1600,320,0.25",
+        "SurgicalGloves_Green,1,40,0,1600,320,0.25",
+        "SurgicalGloves_LightBlue,1,40,0,1600,320,0.25",
+        "SurgicalGloves_White,1,40,0,1600,320,0.25",
+        "SurgicalMask,1,40,0,2100,420,0.25",
+        "NioshFaceMask,1,40,0,2750,550,0.25",
+        "AirborneMask,1,40,0,2750,550,0.25"
       ]
     },
     {
       "CategoryName": "Medications",
       "Products": [
-        "CharcoalTablets,1,20,12,7750,1550",
-        "VitaminBottle,1,40,50,12500,2500",
-        "TetracyclineAntibiotics,1,20,12,21200,4250",
-        "PainkillerTablets,0.983874,20,12,7750,1550",
-        "Epinephrine,0.983874,30,0,24000,4800",
-        "Morphine,0.983874,15,0,28000,5600",
-        "AntiChemInjector,0.983874,15,0,28000,5600"
+        "CharcoalTablets,1,20,12,7750,1550,0.25",
+        "VitaminBottle,1,40,50,12500,2500,0.25",
+        "TetracyclineAntibiotics,1,20,12,21200,4250,0.25",
+        "PainkillerTablets,0.983874,20,12,7750,1550,0.25",
+        "Epinephrine,0.983874,30,0,24000,4800,0.25",
+        "Morphine,0.983874,30,0,28000,5600,0.25",
+        "AntiChemInjector,0.983874,15,0,28000,5600,0.25"
       ]
     },
     {
@@ -229,10 +229,10 @@
     {
       "CategoryName": "Civilian Gloves",
       "Products": [
-        "WorkingGloves_Yellow,0.983874,25,0,1200,240",
-        "WorkingGloves_Beige,0.983874,25,0,1200,240",
-        "WorkingGloves_Brown,0.983874,25,0,1200,240",
-        "WorkingGloves_Black,0.983874,25,0,1200,240"
+        "WorkingGloves_Yellow,0.983874,50,0,1200,240,0.25",
+        "WorkingGloves_Beige,0.983874,50,0,1200,240,0.25",
+        "WorkingGloves_Brown,0.983874,50,0,1200,240,0.25",
+        "WorkingGloves_Black,0.983874,50,0,1200,240,0.25"
       ]
     },
     {
@@ -2067,8 +2067,7 @@
         "TruckBattery,0.983874,20,50,21199,4239",
         "XmasLights,1,60,0,875,175",
         "maglite_mung,0.982079,90,0,825,165",
-        "BBP_Gang_Plug,0.983874,50,1,4082,816",
-        "BBP_Solar_PanelKit,0.994,100,1,88203,17640"
+        "BBP_Gang_Plug,0.983874,50,1,4082,816"
       ]
     },
     {
