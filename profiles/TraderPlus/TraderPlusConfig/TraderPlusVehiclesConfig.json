@@ -1880,6 +1880,186 @@
             ]
         },
         {
+            "VehicleName": "rag_atv_blue",
+            "Height": 0,
+            "VehicleParts": [
+                "SparkPlug",
+                "CarBattery",
+                "CarRadiator",
+                "HeadlightH7",
+                "HeadlightH7",
+                "rag_atv_wheel",
+                "rag_atv_wheel",
+                "rag_atv_wheel",
+                "rag_atv_wheel"
+            ]
+        },
+        {
+            "VehicleName": "rag_atv_red",
+            "Height": 0,
+            "VehicleParts": [
+                "SparkPlug",
+                "CarBattery",
+                "CarRadiator",
+                "HeadlightH7",
+                "HeadlightH7",
+                "rag_atv_wheel",
+                "rag_atv_wheel",
+                "rag_atv_wheel",
+                "rag_atv_wheel"
+            ]
+        },
+        {
+            "VehicleName": "rag_atv_green",
+            "Height": 0,
+            "VehicleParts": [
+                "SparkPlug",
+                "CarBattery",
+                "CarRadiator",
+                "HeadlightH7",
+                "HeadlightH7",
+                "rag_atv_wheel",
+                "rag_atv_wheel",
+                "rag_atv_wheel",
+                "rag_atv_wheel"
+            ]
+        },
+        {
+            "VehicleName": "rag_atv_pink",
+            "Height": 0,
+            "VehicleParts": [
+                "SparkPlug",
+                "CarBattery",
+                "CarRadiator",
+                "HeadlightH7",
+                "HeadlightH7",
+                "rag_atv_wheel",
+                "rag_atv_wheel",
+                "rag_atv_wheel",
+                "rag_atv_wheel"
+            ]
+        },
+        {
+            "VehicleName": "rag_atv_white",
+            "Height": 0,
+            "VehicleParts": [
+                "SparkPlug",
+                "CarBattery",
+                "CarRadiator",
+                "HeadlightH7",
+                "HeadlightH7",
+                "rag_atv_wheel",
+                "rag_atv_wheel",
+                "rag_atv_wheel",
+                "rag_atv_wheel"
+            ]
+        },
+        {
+            "VehicleName": "rag_atv_black",
+            "Height": 0,
+            "VehicleParts": [
+                "SparkPlug",
+                "CarBattery",
+                "CarRadiator",
+                "HeadlightH7",
+                "HeadlightH7",
+                "rag_atv_wheel",
+                "rag_atv_wheel",
+                "rag_atv_wheel",
+                "rag_atv_wheel"
+            ]
+        },
+        {
+            "VehicleName": "rag_atv_awd_blue",
+            "Height": 0,
+            "VehicleParts": [
+                "SparkPlug",
+                "CarBattery",
+                "CarRadiator",
+                "HeadlightH7",
+                "HeadlightH7",
+                "rag_atv_wheel",
+                "rag_atv_wheel",
+                "rag_atv_wheel",
+                "rag_atv_wheel"
+            ]
+        },
+        {
+            "VehicleName": "rag_atv_awd_red",
+            "Height": 0,
+            "VehicleParts": [
+                "SparkPlug",
+                "CarBattery",
+                "CarRadiator",
+                "HeadlightH7",
+                "HeadlightH7",
+                "rag_atv_wheel",
+                "rag_atv_wheel",
+                "rag_atv_wheel",
+                "rag_atv_wheel"
+            ]
+        },
+        {
+            "VehicleName": "rag_atv_awd_green",
+            "Height": 0,
+            "VehicleParts": [
+                "SparkPlug",
+                "CarBattery",
+                "CarRadiator",
+                "HeadlightH7",
+                "HeadlightH7",
+                "rag_atv_wheel",
+                "rag_atv_wheel",
+                "rag_atv_wheel",
+                "rag_atv_wheel"
+            ]
+        },
+        {
+            "VehicleName": "rag_atv_awd_pink",
+            "Height": 0,
+            "VehicleParts": [
+                "SparkPlug",
+                "CarBattery",
+                "CarRadiator",
+                "HeadlightH7",
+                "HeadlightH7",
+                "rag_atv_wheel",
+                "rag_atv_wheel",
+                "rag_atv_wheel",
+                "rag_atv_wheel"
+            ]
+        },
+        {
+            "VehicleName": "rag_atv_awd_white",
+            "Height": 0,
+            "VehicleParts": [
+                "SparkPlug",
+                "CarBattery",
+                "CarRadiator",
+                "HeadlightH7",
+                "HeadlightH7",
+                "rag_atv_wheel",
+                "rag_atv_wheel",
+                "rag_atv_wheel",
+                "rag_atv_wheel"
+            ]
+        },
+        {
+            "VehicleName": "rag_atv_awd_black",
+            "Height": 0,
+            "VehicleParts": [
+                "SparkPlug",
+                "CarBattery",
+                "CarRadiator",
+                "HeadlightH7",
+                "HeadlightH7",
+                "rag_atv_wheel",
+                "rag_atv_wheel",
+                "rag_atv_wheel",
+                "rag_atv_wheel"
+            ]
+        },
+        {
             "VehicleName": "rag_hummer_Armored",
             "Height": 0,
             "VehicleParts": [
