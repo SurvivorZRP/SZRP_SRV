@@ -16,9 +16,9 @@
 /profiles/gamelabs.cfg
 /profiles/@Logging/*
 /profiles/BattlEye/*
-/profiles/PermissionsFramework/Permissions
-/profiles/PermissionsFramework/Players
-/profiles/PermissionsFramework/Roles
+/profiles/PermissionsFramework/Permissions/
+/profiles/PermissionsFramework/Players/
+/profiles/PermissionsFramework/Roles/
 /profiles/DataCache/
 /profiles/Users/Server/
 /profiles/Users/Survivor/
