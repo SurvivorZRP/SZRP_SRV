@@ -1,0 +1,48 @@
+[
+    {
+        "Name": "General Trader",
+        "Pos": [
+            8685.65,
+            0.0,
+            7025.12
+        ],
+        "Icon": "BasicMap\\gui\\images\\shop.paa",,
+        "Is3DMarker": 0,
+        "Colour": [
+            212,
+            138,
+            251
+        ],
+        "Alpha": 240,
+        "HideOnPanel": 0,
+        "HideOnMap": 0,
+        "MaxRenderDistance": -1.0,
+        "MinRenderDistance": -1.0,
+        "MapToShowOn": "banov",
+        "CanEdit": 0,
+        "Group": "BASICMAP_SERVER"
+    },
+    {
+        "Name": "Military Trader",
+        "Pos": [
+            14299.2998046875,
+            0.0,
+            5180.33984375
+        ],
+        "Icon": "DZ\\gear\\navigation\\data\\map_store_ca.paa",
+        "Is3DMarker": 0,
+        "Colour": [
+            212,
+            138,
+            251
+        ],
+        "Alpha": 240,
+        "HideOnPanel": 0,
+        "HideOnMap": 0,
+        "MaxRenderDistance": -1.0,
+        "MinRenderDistance": -1.0,
+        "MapToShowOn": "banov",
+        "CanEdit": 0,
+        "Group": "BASICMAP_SERVER"
+    }
+]

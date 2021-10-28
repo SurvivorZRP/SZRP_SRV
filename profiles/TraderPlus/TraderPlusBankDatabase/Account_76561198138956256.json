@@ -1,9 +1,0 @@
-{
-    "Name": "Jon Rider",
-    "MoneyAmount": 0,
-    "MaxAmount": 100000000,
-    "Licences": [
-        "Drivers License",
-        "Military License"
-    ]
-}

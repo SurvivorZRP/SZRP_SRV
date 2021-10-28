@@ -14,11 +14,16 @@
 **.RPT
 **.zip
 /profiles/gamelabs.cfg
-/profiles/@Logging/
-/profiles/BattlEye/
+/profiles/@Logging/*
+/profiles/BattlEye/*
 /profiles/DataCache/
-/profiles/Users/
-
+/profiles/Users/Server/
+/profiles/Users/Survivor/
+/profiles/SurvivorZRP/FuelStation/
+/profiles/TraderPlus/TraderPlusDatabase/
+/profiles/TraderPlus/TraderPlusBankDatabase/
+/profiles/TraderPlus/TraderPlusGarageDatabase/
+/profiles/TraderPlus/TraderPlusLogs/
 #Dive into mpmissions
 !/mpmissions/empty.banov/**
 !/mpmissions/empty.banov/**/*

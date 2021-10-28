@@ -14,7 +14,7 @@
                 7025.12
             ],
             "M_ISACTIVE": 1,
-            "M_IS_3D_ACTIVE": 1
+            "M_IS_3D_ACTIVE": 0
         },
         {
             "M_MARKER_NAME": "Military Trader",
@@ -30,10 +30,10 @@
                 5180.33984375
             ],
             "M_ISACTIVE": 1,
-            "M_IS_3D_ACTIVE": 1
+            "M_IS_3D_ACTIVE": 0
         }
     ],
-    "m_CanUse3DMarkers": 1,
+    "m_CanUse3DMarkers": 0,
     "m_OwnPositionMarkerDisabled": 0,
-    "m_ForceMapItemOnly": 0
+    "m_ForceMapItemOnly": 1
 }
