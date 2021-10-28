@@ -157,6 +157,8 @@
       "CategoryName": "Medical Equipment",
       "Products": [
         "FirstAidKit,0.983874,20,0,575,115",
+        "FirstAidKit_Grizzly,0.983874,20,0,575,115",
+        "FirstAidKit_Car,0.983874,20,0,575,115",
         "Thermometer,0.983874,40,0,775,155",
         "LabCoat,0.983874,20,0,2500,500",
         "MedicalScrubsHat_Blue,0.983874,20,0,575,115",
@@ -1184,6 +1186,9 @@
         "MSFC_NVG,0.983874,50,1,442473,88494",
         "MSFC_NVG_One,0.983874,50,1,258152,51630",
         "MSFC_NVG_GPNVG18,0.983874,50,1,615300,123060",
+        "TacSatRadio,0.983874,50,36000,14400,0",
+        "Falcon3_Radio,0.983874,50,36000,14400,0",
+        "TacSatBattery,0.983874,50,14400,2880,0",
         "MSFC_Case,0.976945,70,1,4395,879",
         "hardigg_Mung,0.983874,20,0,11118,2223",
         "hardigg2_Mung,0.983874,20,0,11118,2223",
@@ -1193,6 +1198,7 @@
         "MassMRE4,1,40,0,825,165",
         "MassMRE9,1,40,0,825,165",
         "MassMRE10,1,40,0,825,165",
+        "Army_FirstAidKit
         "Msp_MilitaryCrate_Brown,0.983874,20,0,11118,2223",
         "Msp_MilitaryCrate_Green,0.983874,20,0,11118,2223",
         "Msp_MilitaryCrate_Grey,0.983874,20,0,11118,2223",
@@ -2046,7 +2052,13 @@
       "CategoryName": "Electronics & Lights",
       "Products": [
         "Battery9V,1,100,50,371,74",
-        "PersonalRadio,0.983874,50,16309,1261,0",
+        "PersonalRadio,0.983874,50,-1,1261,0",
+        "WalkieTalkie,0.983874,50,16309,1261,0",
+        "Motorola,0.983874,50,16309,1261,0",
+        "Motorola_2,0.983874,50,16309,1261,0",
+        "Motorola_3,0.983874,50,16309,1261,0",
+        "Motorola_4,0.983874,50,16309,1261,0",
+        "Motorola_5,0.983874,50,16309,1261,0",
         "Megaphone,0.983874,20,0,9278,1855",
         "ElectronicRepairKit,0.967688,50,100,3340,668",
         "CableReel,0.979833,80,0,3414,682",
@@ -2214,7 +2226,11 @@
         "PepperSeedsPack,1,30,0,741,148",
         "ZucchiniSeedsPack,1,30,0,741,148",
         "PumpkinSeedsPack,0.983874,30,0,741,148",
-        "GardenLime,0.967688,50,5000,1482,296"
+        "GardenLime,0.967688,50,5000,1482,296",
+        "GardenLime_1,0.967688,50,5000,1482,296",
+        "GardenLime_2,0.967688,50,5000,1482,296",
+        "GardenLime_3,0.967688,50,5000,1482,296",
+        "GardenLime_4,0.967688,50,5000,1482,296",
       ]
     },
     {

@@ -96,4 +96,61 @@
     </type>
     <type name="AMS_Whistle">
     </type>
+    <type name="FirstAidKit_Grizzly">
+        <tag name="shelves" />
+        <cargo chance="0.6">
+            <item name="BandageDressing" />
+        </cargo>
+        <cargo chance="0.6">
+            <item name="Thermometer" />
+        </cargo>
+        <cargo chance="0.6">
+            <item name="StartKitIV" />
+        </cargo>
+        <cargo chance="0.6">
+            <item name="BloodBagEmpty" />
+        </cargo>
+        <cargo chance="0.6">
+            <item name="BloodTestKit" />
+        </cargo>
+        <cargo chance="0.4">
+            <item name="SamSplint" />
+        </cargo>
+    </type>
+    <type name="FirstAidKit_Car">
+        <tag name="shelves" />
+        <cargo chance="1">
+            <item name="BandageDressing" />
+        </cargo>
+        <cargo chance="0.8">
+            <item name="Thermometer" />
+        </cargo>
+        <cargo chance="0.8">
+            <item name="StartKitIV" />
+        </cargo>
+        <cargo chance="0.8">
+            <item name="BloodBagEmpty" />
+        </cargo>
+        <cargo chance="0.8">
+            <item name="BloodTestKit" />
+        </cargo>
+    </type>
+     <type name="Army_FirstAidKit">
+        <tag name="shelves" />
+        <cargo chance="1">
+            <item name="BandageDressing" />
+        </cargo>
+        <cargo chance="0.8">
+            <item name="Thermometer" />
+        </cargo>
+        <cargo chance="0.8">
+            <item name="StartKitIV" />
+        </cargo>
+        <cargo chance="0.8">
+            <item name="BloodBagEmpty" />
+        </cargo>
+        <cargo chance="0.8">
+            <item name="BloodTestKit" />
+        </cargo>
+    </type>
 </spawnabletypes>
