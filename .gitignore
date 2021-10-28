@@ -14,8 +14,8 @@
 **.RPT
 **.zip
 /profiles/gamelabs.cfg
-/profiles/@Logging/*
-/profiles/BattlEye/*
+/profiles/@Logging/
+/profiles/BattlEye/
 /profiles/PermissionsFramework/Permissions/
 /profiles/PermissionsFramework/Players/
 /profiles/PermissionsFramework/Roles/
@@ -27,6 +27,7 @@
 /profiles/TraderPlus/TraderPlusBankDatabase/
 /profiles/TraderPlus/TraderPlusGarageDatabase/
 /profiles/TraderPlus/TraderPlusLogs/
+/profiles/Notes/
 #Dive into mpmissions
 !/mpmissions/empty.banov/**
 !/mpmissions/empty.banov/**/*
