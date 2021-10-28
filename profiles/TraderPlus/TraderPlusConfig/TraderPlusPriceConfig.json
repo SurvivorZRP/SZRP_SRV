@@ -1198,7 +1198,6 @@
         "MassMRE4,1,40,0,825,165",
         "MassMRE9,1,40,0,825,165",
         "MassMRE10,1,40,0,825,165",
-        "Army_FirstAidKit
         "Msp_MilitaryCrate_Brown,0.983874,20,0,11118,2223",
         "Msp_MilitaryCrate_Green,0.983874,20,0,11118,2223",
         "Msp_MilitaryCrate_Grey,0.983874,20,0,11118,2223",
@@ -2230,7 +2229,7 @@
         "GardenLime_1,0.967688,50,5000,1482,296",
         "GardenLime_2,0.967688,50,5000,1482,296",
         "GardenLime_3,0.967688,50,5000,1482,296",
-        "GardenLime_4,0.967688,50,5000,1482,296",
+        "GardenLime_4,0.967688,50,5000,1482,296"
       ]
     },
     {
@@ -2278,7 +2277,19 @@
         "GAZ_M20_blue,1,10,1,570700,228280",
         "GAZ_3110_volga,1,10,1,915000,366000",
         "GAZ_3110_volga_white,1,10,1,915000,366000",
-        "GAZ_3110_volga_black,1,10,1,915000,366000"
+        "GAZ_3110_volga_black,1,10,1,915000,366000",
+        "rag_atv_blue,1,10,1,150000,60000",
+        "rag_atv_red,1,10,1,150000,60000",
+        "rag_atv_green,1,10,1,150000,60000",
+        "rag_atv_pink,1,10,1,150000,60000",
+        "rag_atv_white,1,10,1,150000,60000",
+        "rag_atv_black,1,10,1,150000,60000",
+        "rag_atv_awd_blue,1,10,1,165000,66000",
+        "rag_atv_awd_red,1,10,1,165000,66000",
+        "rag_atv_awd_green,1,10,1,165000,66000",
+        "rag_atv_awd_pink,1,10,1,165000,66000",
+        "rag_atv_awd_white,1,10,1,165000,66000",
+        "rag_atv_awd_black,1,10,1,165000,66000"
       ]
     },
     {
@@ -2548,7 +2559,8 @@
         "GAZ_3110_volga_doors_cargo1_black,1,10,1,22875,-1",
         "GAZ_3110_volga_doors_cargo2_black,1,10,1,22875,-1",
         "GAZ_3110_volga_doors_hood_black,1,10,1,22875,-1",
-        "GAZ_3110_volga_doors_trunk_black,1,10,1,22875,-1"
+        "GAZ_3110_volga_doors_trunk_black,1,10,1,22875,-1",
+        "rag_atv_wheel,1,10,1,7500,-1"
       ]
     },
     {
