@@ -1002,11 +1002,11 @@
         <limit>custom</limit>
         <active>1</active>
         <children>
-            <child lootmax="2" lootmin="0" max="0" min="2" type="PITSTOP_Monsters_Wendigo" />
-            <child lootmax="2" lootmin="0" max="0" min="2" type="PITSTOP_Monsters_Wendigo_Hairy" />
-            <child lootmax="2" lootmin="0" max="0" min="2" type="PITSTOP_Monsters_Lechen" />
-            <child lootmax="2" lootmin="0" max="0" min="2" type="PITSTOP_Monsters_Lechen_Hairy" />
-            <child lootmax="2" lootmin="0" max="0" min="2" type="ZmbM_priestPopSkinny" />
+            <child lootmax="2" lootmin="0" max="0" min="3" type="PITSTOP_Monsters_Wendigo" />
+            <child lootmax="2" lootmin="0" max="0" min="3" type="PITSTOP_Monsters_Wendigo_Hairy" />
+            <child lootmax="2" lootmin="0" max="0" min="3" type="PITSTOP_Monsters_Lechen" />
+            <child lootmax="2" lootmin="0" max="0" min="3" type="PITSTOP_Monsters_Lechen_Hairy" />
+            <child lootmax="2" lootmin="0" max="0" min="3" type="ZmbM_priestPopSkinny" />
         </children>
     </event>
     <event name="InfectedMonsters">
