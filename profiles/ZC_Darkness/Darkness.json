@@ -1,40 +1,4 @@
 {
     "DarknessLocations": [
-        {
-            "DarkLight": "Dark",
-            "triggerpos": "7702.01 351.712 9195.57",
-            "triggermins": "-5 -1 -5",
-            "triggermaxs": "5 1 5"
-        },
-        {
-            "DarkLight": "Light",
-            "triggerpos": "7703.91 351.712 9180.63",
-            "triggermins": "-5 -1 -5",
-            "triggermaxs": "5 1 5"
-        },
-        {
-            "DarkLight": "Dark",
-            "triggerpos": "8086.7 483.245 10265.4",
-            "triggermins": "-5 -1 -5",
-            "triggermaxs": "5 1 5"
-        },
-        {
-            "DarkLight": "Light",
-            "triggerpos": "8087.1 483.255 10250.6",
-            "triggermins": "-5 -1 -5",
-            "triggermaxs": "5 1 5"
-        },
-        {
-            "DarkLight": "Dark",
-            "triggerpos": "13997.4 474.569 3837.46",
-            "triggermins": "-5 -1 -5",
-            "triggermaxs": "5 1 5"
-        },
-        {
-            "DarkLight": "Light",
-            "triggerpos": "14026.4 481.975 3843.38",
-            "triggermins": "-5 -1 -5",
-            "triggermaxs": "5 1 5"
-        }
     ]
 }

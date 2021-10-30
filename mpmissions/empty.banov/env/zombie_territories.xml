@@ -415,12 +415,11 @@
     <territory color="1289674462">
         <zone name="InfectedPrisoner" smin="0" smax="0" dmin="4" dmax="5" x="2277.28" z="5064.55" r="50"/>
         <zone name="InfectedPrisoner" smin="0" smax="0" dmin="6" dmax="10" x="2326.36" z="4810.91" r="50"/>
-        <zone name="InfectedSpirits" smin="0" smax="0" dmin="1" dmax="3" x="8928" z="13163" r="50"/>
-        <zone name="InfectedSpirits" smin="0" smax="0" dmin="1" dmax="3" x="3079" z="9526" r="50"/>
-        <zone name="InfectedSpirits" smin="0" smax="0" dmin="1" dmax="3" x="2606" z="4127" r="50"/>
-        <zone name="InfectedSpirits" smin="0" smax="0" dmin="1" dmax="3" x="12088" z="3920" r="50"/>
-        <zone name="InfectedSpirits" smin="0" smax="0" dmin="1" dmax="3" x="13263" z="8777" r="50"/>
-        <zone name="InfectedSpirits" smin="0" smax="0" dmin="1" dmax="3" x="9085" z="8459" r="50"/>
+        <zone name="InfectedSpirits" smin="0" smax="0" dmin="2" dmax="4" x="8928" z="13163" r="50"/>
+        <zone name="InfectedSpirits" smin="0" smax="0" dmin="2" dmax="4" x="3079" z="9526" r="50"/>
+        <zone name="InfectedSpirits" smin="0" smax="0" dmin="2" dmax="4" x="2606" z="4127" r="50"/>
+        <zone name="InfectedSpirits" smin="0" smax="0" dmin="2" dmax="4" x="12088" z="3920" r="50"/>
+        <zone name="InfectedSpirits" smin="0" smax="0" dmin="2" dmax="4" x="13263" z="8777" r="50"/>
         <zone name="InfectedMonsters" smin="0" smax="0" dmin="1" dmax="2" x="6546" z="10836" r="500"/>
         <zone name="InfectedMonsters" smin="0" smax="0" dmin="1" dmax="2" x="8250" z="11226" r="500"/>
         <zone name="InfectedMonsters" smin="0" smax="0" dmin="1" dmax="2" x="10182" z="11610" r="500"/>
