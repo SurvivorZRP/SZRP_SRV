@@ -1,6 +1,7 @@
 {
     "EnableAutoCalculation": 0,
     "EnableAutoDestockAtRestart": 1,
+    "EnableDefaultTraderStock": 0,
     "TraderCategories": [
         {
             "CategoryName": "Vegetables",
