@@ -989,9 +989,9 @@
         </children>
     </event>
     <event name="InfectedSpirits">
-        <nominal>60</nominal>
-        <min>30</min>
-        <max>120</max>
+        <nominal>0</nominal>
+        <min>0</min>
+        <max>0</max>
         <lifetime>3</lifetime>
         <restock>0</restock>
         <saferadius>100</saferadius>
