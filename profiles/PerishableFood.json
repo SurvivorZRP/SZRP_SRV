@@ -6,11 +6,5 @@
     "FridgeConservationMultiplier": 60,
     "SaltConsumption": 0.0032999999821186067,
     "FridgeClasses": [
-        "PF_Fridge",
-        "Msp_MoskvaFridge_Blue",
-        "Msp_MoskvaFridge_Cream",
-        "Msp_MoskvaFridge_Red",
-        "Msp_SovietOkaFridge",
-        "Msp_SnowballFridge"
     ]
 }
