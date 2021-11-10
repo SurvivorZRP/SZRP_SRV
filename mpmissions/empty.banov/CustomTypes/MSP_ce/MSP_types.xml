@@ -1477,7 +1477,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     </type>
     <type name="Msp_MedicBag_Red">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>7200</lifetime>
         <restock>1800</restock>
         <min>1</min>
@@ -1490,7 +1490,7 @@
         <usage name="Medic" />
     </type>
     <type name="Msp_MedicBag_Blue">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>7200</lifetime>
         <restock>1800</restock>
         <min>1</min>
@@ -1503,7 +1503,7 @@
         <usage name="Medic" />
     </type>
     <type name="Msp_MedicBag_Green">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>7200</lifetime>
         <restock>1800</restock>
         <min>1</min>
@@ -1516,7 +1516,7 @@
         <usage name="Medic" />
     </type>
     <type name="Msp_MedicBag_Black">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>7200</lifetime>
         <restock>1800</restock>
         <min>1</min>
