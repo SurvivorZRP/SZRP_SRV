@@ -1,0 +1,73 @@
+{
+    "m_CPCraftClasses": {
+		"m_CPCustomizationSetting" : {
+			"PathToMainBackgroundImg" : "my path to main img",
+			"PathToCookImg" : "my path to CookImg",
+			"PathToChopImg" : "my path to PaintImg",
+			"PathToCraftImg" : "my path to CraftImg"
+		},
+		"WorkbenchesClassnames": [
+			"CookingBench"
+		],
+        "CPCraftItems": [
+            {
+                "Result": "SlicedPumpkin",
+                "ResultCount": 1000,
+                "CraftType": "chop",
+                "RecipeName": "Chop Pumpkin",
+                "CPCraftComponents": [
+                    {
+                        "Classname": "Pumpkin",
+                        "Amount": 2300,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "KitchenKnife",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": -10
+                    }
+                ],
+				"AttachmentsNeed": [
+					"CPChoppingBoard"
+				]
+            },
+			{
+                "Result": "TacticalBaconCan",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Produce Tacticool Bacon",
+                "CPCraftComponents": [
+					{
+                        "Classname": "CP_EmptyFoodCan",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+					{
+                        "Classname": "BoarSteakMeat",
+                        "Amount": 500,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+					{
+                        "Classname": "Tomato",
+                        "Amount": 200,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+					{
+                        "Classname": "KitchenKnife",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": -10
+                    }
+                ],
+				"AttachmentsNeed": [
+					"CPChoppingBoard"
+				]
+            }			
+        ]
+    }
+}

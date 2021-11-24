@@ -3,6 +3,7 @@
 //#include "$CurrentDir:\\mpmissions\\empty.banov\\BotMissions\\BotMissionHrabiceSouth.c"
 //#include "$CurrentDir:\\mpmissions\\empty.banov\\BotMissions\\BotMissionHrabiceCent.c"
 //#include "$CurrentDir:\\mpmissions\\empty.banov\\BotMissions\\BotMissionHrabiceNorth.c"
+#include "$CurrentDir:mpmissions/empty.banov/eAI/AI_init.c"
 
 void main()
 {	
@@ -13,6 +14,7 @@ void main()
 	//BotMissionHrabiceSouth();
 	//BotMissionHrabiceCent();
 	//BotMissionHrabiceNorth();
+	InitDynamicPatrols();
 
 	//INIT WEATHER BEFORE ECONOMY INIT------------------------
 	//Banov Init

@@ -4,13 +4,13 @@
             "DarkLight": "Dark",
             "triggerpos": "7702.01 351.712 9195.57",
             "triggermins": "-5 -1 -5",
-            "triggermaxs": "5 1 5"
+            "triggermaxs": "5 3 5"
         },
         {
             "DarkLight": "Light",
             "triggerpos": "7703.91 351.712 9180.63",
             "triggermins": "-5 -1 -5",
-            "triggermaxs": "5 1 5"
+            "triggermaxs": "5 3 5"
         },
         {
             "DarkLight": "Dark",
@@ -33,6 +33,18 @@
         {
             "DarkLight": "Light",
             "triggerpos": "14026.4 481.975 3843.38",
+            "triggermins": "-5 -1 -5",
+            "triggermaxs": "5 1 5"
+        },
+        {
+            "DarkLight": "Dark",
+            "triggerpos": "11651.5 603.633 15042",
+            "triggermins": "-5 -1 -5",
+            "triggermaxs": "5 1 5"
+        },
+        {
+            "DarkLight": "Light",
+            "triggerpos": "11665.4 610.258 15042",
             "triggermins": "-5 -1 -5",
             "triggermaxs": "5 1 5"
         }
